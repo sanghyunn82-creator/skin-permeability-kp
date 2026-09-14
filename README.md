@@ -1,4 +1,4 @@
-# Skin permeability saturates with lipophilicity and falls above a molecular-weight threshold in pooled public data
+# Human Skin Permeability Prediction by Machine Learning for Transdermal Drug Delivery
 
 Analysis code and derived data for the manuscript submitted to *Medicina* (MDPI).
 
