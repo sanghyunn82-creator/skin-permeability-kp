@@ -1,0 +1,752 @@
+src,name,smiles,cas,logkp_cms,csmiles,key,klass,analg
+HuskinDB,Butyl 4-hydroxybenzoat,CCCCOC(=O)c1ccc(cc1)O,,-4.538,CCCCOC(=O)c1ccc(O)cc1,CCCCOC(=O)c1ccc(O)cc1,,False
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-7.053,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Methyl 4-hydroxybenzoate,COC(=O)c1ccc(cc1)O,,-5.23,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+HuskinDB,Fluocinonide,CC(=O)OCC(=O)[C@@]12OC(O[C@@H]1C[C@@H]1[C@]2(C)C[C@H](O)[C@]2([C@H]1C[C@@H](C1=CC(=O)C=C[C@]21C)F)F)(C)C,,-6.326,CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C,CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C,,False
+HuskinDB,Fluocinonide,CC(=O)OCC(=O)[C@@]12OC(O[C@@H]1C[C@@H]1[C@]2(C)C[C@H](O)[C@]2([C@H]1C[C@@H](C1=CC(=O)C=C[C@]21C)F)F)(C)C,,-6.326,CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C,CC(=O)OCC(=O)[C@@]12OC(C)(C)O[C@@H]1C[C@H]1[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]12C,,False
+HuskinDB,Hydrocortisone 21-Hemisuccinate,OC(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.757,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCC(=O)O,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCC(=O)O,,False
+HuskinDB,Hydrocortisone 21-Hemipimelate,OC(=O)CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.301,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCCCCC(=O)O,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCCCCC(=O)O,,False
+HuskinDB,Hydrocortisone 21-Hexanoate,CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-5.301,CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,Hydrocortisone 21-(6-hydroxyhexanoate),OCCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.597,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCCCCO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCCCCO,,False
+HuskinDB,Hydrocortisone 21-methylpimelate,COC(=O)CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-5.824,COC(=O)CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,COC(=O)CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,Hydrocortisone 21-methylsuccinate,COC(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.234,COC(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,COC(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,"Hydrocortisone 21-(N,N-dimethylsuccinamate)",O=C(CCC(=O)N(C)C)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.73,CN(C)C(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CN(C)C(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,Hydrocortisone 21-octanoate,CCCCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-4.764,CCCCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CCCCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,Hydrocortisone 21-pimelamate,NC(=O)CCCCCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.607,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCCCCC(N)=O,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCCCCC(N)=O,,False
+HuskinDB,Hydrocortisone 21-propionate,CCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.038,CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,Hydrocortisone 21-propionate,CCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.025,CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,CCC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,,False
+HuskinDB,Hydrocortisone 21-succinamate,NC(=O)CCC(=O)OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-8.141,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCC(N)=O,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCC(N)=O,,False
+HuskinDB,Sucrose,OC[C@H]1O[C@@]([C@H]([C@@H]1O)O)(CO)O[C@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O,,-8.583,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,,False
+HuskinDB,Sucrose,OC[C@H]1O[C@@]([C@H]([C@@H]1O)O)(CO)O[C@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O,,-8.84,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,,False
+HuskinDB,4-Hydroxybenzyl alcohol,OCc1ccc(cc1)O,,-6.255,OCc1ccc(O)cc1,OCc1ccc(O)cc1,,False
+HuskinDB,4-Hydroxyphenylacetamide,NC(=O)Cc1ccc(cc1)O,,-6.903,NC(=O)Cc1ccc(O)cc1,NC(=O)Cc1ccc(O)cc1,,False
+HuskinDB,4-Hydroxyphenylacetic acid,OC(=O)Cc1ccc(cc1)O,,-6.158,O=C(O)Cc1ccc(O)cc1,O=C(O)Cc1ccc(O)cc1,,False
+HuskinDB,Methyl 4-hydroxyphenylacetate,COC(=O)Cc1ccc(cc1)O,,-5.255,COC(=O)Cc1ccc(O)cc1,COC(=O)Cc1ccc(O)cc1,,False
+HuskinDB,p-Cresol,Cc1ccc(cc1)O,,-4.477,Cc1ccc(O)cc1,Cc1ccc(O)cc1,,False
+HuskinDB,Toluene,Cc1ccccc1,,-3.637,Cc1ccccc1,Cc1ccccc1,,False
+HuskinDB,Water,O,,-6.438,O,O,,False
+HuskinDB,Water,O,,-6.606,O,O,,False
+HuskinDB,Water,O,,-6.323,O,O,,False
+HuskinDB,Water,O,,-6.502,O,O,,False
+HuskinDB,2-Ethoxyethyl acetate,CCOCCOC(=O)C,,-6.395,CCOCCOC(C)=O,CCOCCOC(C)=O,,False
+HuskinDB,2-Ethylhexanol,CCCCC(CO)CC,,-7.899,CCCCC(CC)CO,CCCCC(CC)CO,,False
+HuskinDB,2-Propoxyethanol,CCCOCCO,,-6.748,CCCOCCO,CCCOCCO,,False
+HuskinDB,Bis(2-ethylhexyl)phthalate,CCCCC(COC(=O)c1ccccc1C(=O)OCC(CCCC)CC)CC,,-10.535,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,,False
+HuskinDB,Diethylene glycol monobutyl ether,CCCCOCCOCCO,,-7.071,CCCCOCCOCCO,CCCCOCCOCCO,,False
+HuskinDB,Ethyl 3-ethoxypropionate,CCOCCC(=O)OCC,,-6.669,CCOCCC(=O)OCC,CCOCCC(=O)OCC,,False
+HuskinDB,Urea,NC(=O)N,,-7.386,NC(N)=O,NC(N)=O,,False
+HuskinDB,Water,O,,-6.363,O,O,,False
+HuskinDB,Ethanol,CCO,,-7.079,CCO,CCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.84,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Pentanol,CCCCCO,,-5.778,CCCCCO,CCCCCO,,False
+HuskinDB,1-Propanol,CCCO,,-6.556,CCCO,CCCO,,False
+HuskinDB,"2,3-Butanediol",CC(C(O)C)O,,-7.857,CC(O)C(C)O,CC(O)C(C)O,,False
+HuskinDB,1-Butanol,CCCCO,,-6.079,CCCCO,CCCCO,,False
+HuskinDB,Butan-2-one,CCC(=O)C,,-5.903,CCC(C)=O,CCC(C)=O,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-7.158,CCOCCO,CCOCCO,,False
+HuskinDB,Diethyl ether,CCOCC,,-5.352,CCOCC,CCOCC,,False
+HuskinDB,Benzene,c1ccccc1,,-4.511,c1ccccc1,c1ccccc1,,False
+HuskinDB,2-Amino-4-Nitrophenol,[O-][N+](=O)c1ccc(c(c1)N)O,,-8.079,Nc1cc([N+](=O)[O-])ccc1O,Nc1cc([N+](=O)[O-])ccc1O,,False
+HuskinDB,2-Nitro-p-Phenylenediamine,Nc1ccc(c(c1)[N+](=O)[O-])N,,-6.857,Nc1ccc(N)c([N+](=O)[O-])c1,Nc1ccc(N)c([N+](=O)[O-])c1,,False
+HuskinDB,4-Amino-2-Nitrophenol,Nc1ccc(c(c1)[N+](=O)[O-])O,,-7.622,Nc1ccc(O)c([N+](=O)[O-])c1,Nc1ccc(O)c([N+](=O)[O-])c1,,False
+HuskinDB,4-Chloro-m-Phenylenediamine,Nc1ccc(c(c1)N)Cl,,-6.234,Nc1ccc(Cl)c(N)c1,Nc1ccc(Cl)c(N)c1,,False
+HuskinDB,o-Phenylenediamine,Nc1ccccc1N,,-6.903,Nc1ccccc1N,Nc1ccccc1N,,False
+HuskinDB,p-Phenylenediamine,Nc1ccc(cc1)N,,-7.176,Nc1ccc(N)cc1,Nc1ccc(N)cc1,,False
+HuskinDB,"2,4-Dichlorophenol",Clc1ccc(c(c1)Cl)O,,-5.065,Oc1ccc(Cl)cc1Cl,Oc1ccc(Cl)cc1Cl,,False
+HuskinDB,Acetic acid,CC(=O)O,,-6.079,CC(=O)O,CC(=O)O,,False
+HuskinDB,Benzoic acid,OC(=O)c1ccccc1,,-5.675,O=C(O)c1ccccc1,O=C(O)c1ccccc1,,False
+HuskinDB,Bis(2-ethylhexyl)phthalate,CCCCC(COC(=O)c1ccccc1C(=O)OCC(CCCC)CC)CC,,-7.653,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,,False
+HuskinDB,Butoxyethanol,CCCCOC(O)C,,-6.0,CCCCOC(C)O,CCCCOC(C)O,,False
+HuskinDB,Cortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)CC(=O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.38,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2C(=O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2C(=O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-5.515,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,Diazinon,CCOP(=S)(Oc1cc(C)nc(n1)C(C)C)OCC,,-5.617,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,,False
+HuskinDB,Ethacrynic acid,CCC(=C)C(=O)c1ccc(c(c1Cl)Cl)OCC(=O)O,,-7.38,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl,C=C(CC)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl,,False
+HuskinDB,Linolenic acid,CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)O,,-5.988,CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)O,CC/C=C/C/C=C/C/C=C/CCCCCCCC(=O)O,,False
+HuskinDB,Octylparaben,CCCCCCCCOC(=O)c1ccc(cc1)O,,-5.588,CCCCCCCCOC(=O)c1ccc(O)cc1,CCCCCCCCOC(=O)c1ccc(O)cc1,,False
+HuskinDB,Oleic acid,CCCCCCCC/C=CCCCCCCCC(=O)O,,-6.442,CCCCCCCCC=CCCCCCCCC(=O)O,CCCCCCCCC=CCCCCCCCC(=O)O,,False
+HuskinDB,Propylparaben,CCCOC(=O)c1ccc(cc1)O,,-5.41,CCCOC(=O)c1ccc(O)cc1,CCCOC(=O)c1ccc(O)cc1,,False
+HuskinDB,Salicylic acid,OC(=O)c1ccccc1O,,-6.588,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.67,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,1-Butanol,CCCCO,,-5.481,CCCCO,CCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.284,CCCCCCO,CCCCCCO,,False
+HuskinDB,1-Hexyl-2-Pyrrolidone,CCCCCCN1CCCC1=O,,-5.208,CCCCCCN1CCCC1=O,CCCCCCN1CCCC1=O,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.87,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Octyl-2-Azacycloheptanone,CCCCCCCCN1CCCCCC1=O,,-4.836,CCCCCCCCN1CCCCCC1=O,CCCCCCCCN1CCCCCC1=O,,False
+HuskinDB,1-Octyl-2-Pyrrolidone,CCCCCCCCN1CCCC1=O,,-4.827,CCCCCCCCN1CCCC1=O,CCCCCCCCN1CCCC1=O,,False
+HuskinDB,1-Pentanol,CCCCCO,,-5.125,CCCCCO,CCCCCO,,False
+HuskinDB,2-Phenylethanol,OCCc1ccccc1,,-5.276,OCCc1ccccc1,OCCc1ccccc1,,False
+HuskinDB,Carvacrol,CC(c1ccc(c(c1)O)C)C,,-4.842,Cc1ccc(C(C)C)cc1O,Cc1ccc(C(C)C)cc1O,,False
+HuskinDB,Thymol,Cc1ccc(c(c1)O)C(C)C,,-4.86,Cc1ccc(C(C)C)c(O)c1,Cc1ccc(C(C)C)c(O)c1,,False
+HuskinDB,Ethanol,CCO,,-6.278,CCO,CCO,,False
+HuskinDB,1-Butanol,CCCCO,,-5.659,CCCCO,CCCCO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-4.701,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.051,CCCCCCO,CCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.586,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,2-Hydroxypropyl Nicotinate,CC(COC(=O)c1cccnc1)O,,-8.025,CC(O)COC(=O)c1cccnc1,CC(O)COC(=O)c1cccnc1,,False
+HuskinDB,Benzyl nicotinate,O=C(c1cccnc1)OCc1ccccc1,,-5.348,O=C(OCc1ccccc1)c1cccnc1,O=C(OCc1ccccc1)c1cccnc1,,False
+HuskinDB,Butyl nicotinate,CCCCOC(=O)c1cccnc1,,-5.335,CCCCOC(=O)c1cccnc1,CCCCOC(=O)c1cccnc1,,False
+HuskinDB,Ethyl nicotinate,CCOC(=O)c1cccnc1,,-5.755,CCOC(=O)c1cccnc1,CCOC(=O)c1cccnc1,,False
+HuskinDB,Isonicotinic acid,OC(=O)c1ccncc1,,-8.173,O=C(O)c1ccncc1,O=C(O)c1ccncc1,,False
+HuskinDB,Methyl nicotinate,COC(=O)c1cccnc1,,-6.046,COC(=O)c1cccnc1,COC(=O)c1cccnc1,,False
+HuskinDB,Methyltriglycol nicotinate,COCCOCCOCCOC(=O)c1cccnc1,,-7.308,COCCOCCOCCOC(=O)c1cccnc1,COCCOCCOCCOC(=O)c1cccnc1,,False
+HuskinDB,n-Hexyl nicotinate,CCCCCCOC(=O)c1cccnc1,,-5.303,CCCCCCOC(=O)c1cccnc1,CCCCCCOC(=O)c1cccnc1,,False
+HuskinDB,Triglycol nicotinate,OCCOCCOCCOC(=O)c1cccnc1,,-8.561,O=C(OCCOCCOCCO)c1cccnc1,O=C(OCCOCCOCCO)c1cccnc1,,False
+HuskinDB,Acetylsalicylic Acid,CC(=O)Oc1ccccc1C(=O)O,,-5.696,CC(=O)Oc1ccccc1C(=O)O,CC(=O)Oc1ccccc1C(=O)O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Atropine,OCC(c1ccccc1)C(=O)OC1CC2CCC(C1)N2C,,-7.676,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,,False
+HuskinDB,Benzoic acid,OC(=O)c1ccccc1,,-5.156,O=C(O)c1ccccc1,O=C(O)c1ccccc1,,False
+HuskinDB,Diclofenac,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,,-6.556,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ibuprofen,CC(Cc1ccc(cc1)C(C(=O)O)C)C,,-4.996,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Methyl nicotinate,COC(=O)c1cccnc1,,-5.966,COC(=O)c1cccnc1,COC(=O)c1cccnc1,,False
+HuskinDB,Naproxen,COc1ccc2c(c1)ccc(c2)C(C(=O)O)C,,-6.096,COc1ccc2cc(C(C)C(=O)O)ccc2c1,COc1ccc2cc(C(C)C(=O)O)ccc2c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Nicotine,CN1CCCC1c1cccnc1,,-6.036,CN1CCCC1c1cccnc1,CN1CCCC1c1cccnc1,,False
+HuskinDB,Salicylic acid,OC(=O)c1ccccc1O,,-5.416,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Etodolac,CCC1(OCCc2c1[nH]c1c2cccc1CC)CC(=O)O,,-5.683,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3,CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Famotidine,NC(=Nc1scc(n1)CSCCC(=NS(=O)(=O)N)N)N,,-8.345,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1,,False
+HuskinDB,Ketoprofen,OC(=O)C(c1cccc(c1)C(=O)c1ccccc1)C,,-6.768,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Nimesulide,[O-][N+](=O)c1ccc(c(c1)Oc1ccccc1)NS(=O)(=O)C,,-6.551,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,CS(=O)(=O)Nc1ccc([N+](=O)[O-])cc1Oc1ccccc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Nizatidine,CN/C(=C[N+](=O)[O-])/NCCSCc1csc(n1)CN(C)C,,-7.981,CNC(=C[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1,CNC(=C[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1,,False
+HuskinDB,Ranitidine,CN/C(=C[N+](=O)[O-])/NCCSCc1ccc(o1)CN(C)C,,-7.608,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,,False
+HuskinDB,Theophylline,Cn1c(=O)n(C)c2c(c1=O)[nH]cn2,,-7.125,Cn1c(=O)c2[nH]cnc2n(C)c1=O,Cn1c(=O)c2[nH]cnc2n(C)c1=O,,False
+HuskinDB,"1,2,4-Benzenetriol",Oc1ccc(c(c1)O)O,,-7.456,Oc1ccc(O)c(O)c1,Oc1ccc(O)c(O)c1,,False
+HuskinDB,Catechol,Oc1ccccc1O,,-6.066,Oc1ccccc1O,Oc1ccccc1O,,False
+HuskinDB,Hydroquinone,Oc1ccc(cc1)O,,-6.506,Oc1ccc(O)cc1,Oc1ccc(O)cc1,,False
+HuskinDB,Phenol,Oc1ccccc1,,-5.586,Oc1ccccc1,Oc1ccccc1,,False
+HuskinDB,Phloroglucinol,Oc1cc(O)cc(c1)O,,-6.066,Oc1cc(O)cc(O)c1,Oc1cc(O)cc(O)c1,,False
+HuskinDB,Pyrogallol,Oc1c(O)cccc1O,,-6.366,Oc1cccc(O)c1O,Oc1cccc(O)c1O,,False
+HuskinDB,Resorcinol,Oc1cccc(c1)O,,-6.626,Oc1cccc(O)c1,Oc1cccc(O)c1,,False
+HuskinDB,Amphetamine,CC(Cc1ccccc1)N,,-8.409,CC(N)Cc1ccccc1,CC(N)Cc1ccccc1,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.967,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Ouabain,OC[C@@]12[C@H](O)C[C@@H](C[C@@]2(O)CCC2C1[C@H](O)C[C@]1([C@]2(O)CC[C@@H]1C1=CC(=O)OC1)C)O[C@@H]1O[C@@H](C)[C@@H]([C@H]([C@H]1O)O)O,,-8.959,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3=CC(=O)OC3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3=CC(=O)OC3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-6.684,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-6.018,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Amobarbital,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,,-6.201,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,,False
+HuskinDB,Barbital,CCC1(CC)C(=O)NC(=O)NC1=O,,-7.509,CCC1(CC)C(=O)NC(=O)NC1=O,CCC1(CC)C(=O)NC(=O)NC1=O,,False
+HuskinDB,Butobarbital,CCCCC1(CC)C(=O)NC(=O)NC1=O,,-7.268,CCCCC1(CC)C(=O)NC(=O)NC1=O,CCCCC1(CC)C(=O)NC(=O)NC1=O,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.481,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Isoquinoline,c1ccc2c(c1)cncc2,,-5.332,c1ccc2cnccc2c1,c1ccc2cnccc2c1,,False
+HuskinDB,Nicotine,CN1CCCC1c1cccnc1,,-5.27,CN1CCCC1c1cccnc1,CN1CCCC1c1cccnc1,,False
+HuskinDB,Phenobarbital,CCC1(C(=O)NC(=O)NC1=O)c1ccccc1,,-6.9,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,CCC1(c2ccccc2)C(=O)NC(=O)NC1=O,,False
+HuskinDB,Salicylic acid,OC(=O)c1ccccc1O,,-5.76,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Flufenamic acid,OC(=O)c1ccccc1Nc1cccc(c1)C(F)(F)F,,-6.194,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,5-Fluorouracil,Fc1c[nH]c(=O)[nH]c1=O,,-7.297,O=c1[nH]cc(F)c(=O)[nH]1,O=c1[nH]cc(F)c(=O)[nH]1,,False
+HuskinDB,Indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(n2C(=O)c1ccc(cc1)Cl)C,,-6.997,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Propranolol-HCl,OC(COc1cccc2c1cccc2)CNC(C)C.Cl,,-7.879,CC(C)NCC(O)COc1cccc2ccccc12.Cl,CC(C)NCC(O)COc1cccc2ccccc12.Cl,,False
+HuskinDB,Aldosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C=O)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.793,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.944,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.195,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Progesterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2C(=O)C)C)C,,-5.079,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+HuskinDB,Corticosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.556,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,Dexamethasone,OCC(=O)[C@@]1(O)[C@H](C)C[C@@H]2[C@]1(C)C[C@H](O)[C@]1([C@H]2CCC2=CC(=O)C=C[C@]12C)F,,-7.75,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.937,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Lidocaine,CCN(CC(=O)Nc1c(C)cccc1C)CC,,-5.958,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.827,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.77,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,5-Aminolevulinic acid,NCC(=O)CCC(=O)O,,-7.711,NCC(=O)CCC(=O)O,NCC(=O)CCC(=O)O,,False
+HuskinDB,L-alanyl-L-tryptophan,OC(=O)[C@H](Cc1c[nH]c2c1cccc2)NC(=O)[C@@H](N)C,,-8.38,C[C@H](N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,C[C@H](N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,,False
+HuskinDB,Betamethasone,OCC(=O)[C@@]1(O)[C@@H](C)C[C@@H]2[C@]1(C)C[C@H](O)[C@]1([C@H]2CCC2=CC(=O)C=C[C@]12C)F,,-7.153,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,,False
+HuskinDB,Cytarabine,OC[C@H]1O[C@H]([C@H]([C@@H]1O)O)n1ccc(nc1=O)N,,-8.856,Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1,Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1,,False
+HuskinDB,"N4-acetyl-4-amino-1-[(2R,3S,4R,5R)-3,4-dihydroxy-5 (hydroxymethyl)oxolan-2-yl] pyrimidin-2-one",OC[C@H]1O[C@H]([C@H]([C@H]1O)O)n1ccc(nc1=O)NC(=O)C,,-6.889,CC(=O)Nc1ccn([C@@H]2O[C@H](CO)[C@H](O)[C@@H]2O)c(=O)n1,CC(=O)Nc1ccn([C@@H]2O[C@H](CO)[C@H](O)[C@@H]2O)c(=O)n1,,False
+HuskinDB,"N4-hexanoyl-4-amino-1-[(2R,3S,4R,5R)-3,4-dihydroxy-5 (hydroxymethyl)oxolan-2-yl] pyrimidin-2-one",CCCCCC(=O)Nc1ccn(c(=O)n1)[C@@H]1O[C@@H]([C@@H]([C@@H]1O)O)CO,,-5.737,CCCCCC(=O)Nc1ccn([C@@H]2O[C@H](CO)[C@H](O)[C@@H]2O)c(=O)n1,CCCCCC(=O)Nc1ccn([C@@H]2O[C@H](CO)[C@H](O)[C@@H]2O)c(=O)n1,,False
+HuskinDB,Dimethylethylamine,CCN(C)C,,-6.079,CCN(C)C,CCN(C)C,,False
+HuskinDB,Nortriptyline hydrocloride,CNCCC=C1c2ccccc2CCc2c1cccc2.Cl,,-7.959,CNCCC=C1c2ccccc2CCc2ccccc21.Cl,CNCCC=C1c2ccccc2CCc2ccccc21.Cl,analgesic adjuvant,False
+HuskinDB,Nortriptyline hydrocloride,CNCCC=C1c2ccccc2CCc2c1cccc2.Cl,,-6.444,CNCCC=C1c2ccccc2CCc2ccccc21.Cl,CNCCC=C1c2ccccc2CCc2ccccc21.Cl,analgesic adjuvant,False
+HuskinDB,Atropine,OCC(c1ccccc1)C(=O)OC1CC2CCC(C1)N2C,,-8.635,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,,False
+HuskinDB,Chlorpheniramine,CN(CCC(c1ccccn1)c1ccc(cc1)Cl)C,,-6.216,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,,False
+HuskinDB,Diethylcarbamazine,CCN(C(=O)N1CCN(CC1)C)CC,,-7.459,CCN(CC)C(=O)N1CCN(C)CC1,CCN(CC)C(=O)N1CCN(C)CC1,,False
+HuskinDB,Digitoxin,O=C1OCC(=C1)[C@@H]1CC[C@]2([C@]1(C)CC[C@H]1[C@H]2CC[C@H]2[C@]1(C)CC[C@@H](C2)O[C@H]1C[C@H](O)[C@@H]([C@H](O1)C)O[C@H]1C[C@H](O)[C@@H]([C@H](O1)C)O[C@H]1C[C@H](O)[C@@H]([C@H](O1)C)O)O,,-8.442,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5CC[C@]5(C)[C@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O,C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5CC[C@]5(C)[C@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O,,False
+HuskinDB,Ephedrine,CN[C@H]([C@@H](c1ccccc1)O)C,,-5.778,CN[C@@H](C)[C@H](O)c1ccccc1,CN[C@@H](C)[C@H](O)c1ccccc1,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.829,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.556,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Nitroglycerin,[O-][N+](=O)OC(CO[N+](=O)[O-])CO[N+](=O)[O-],,-5.556,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],,False
+HuskinDB,Ouabain,OC[C@@]12[C@H](O)C[C@@H](C[C@@]2(O)CCC2C1[C@H](O)C[C@]1([C@]2(O)CC[C@@H]1C1=CC(=O)OC1)C)O[C@@H]1O[C@@H](C)[C@@H]([C@H]([C@H]1O)O)O,,-9.653,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3=CC(=O)OC3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3=CC(=O)OC3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O,,False
+HuskinDB,Scopolamine,OC[C@H](c1ccccc1)C(=O)OC1C[C@@H]2N([C@H](C1)[C@@H]1[C@H]2O1)C,,-7.852,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,,False
+HuskinDB,Chlorpheniramine,CN(CCC(c1ccccn1)c1ccc(cc1)Cl)C,,-6.491,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,,False
+HuskinDB,Ephedrine,CN[C@H]([C@@H](c1ccccc1)O)C,,-5.778,CN[C@@H](C)[C@H](O)c1ccccc1,CN[C@@H](C)[C@H](O)c1ccccc1,,False
+HuskinDB,Ephedrine,CN[C@H]([C@@H](c1ccccc1)O)C,,-5.778,CN[C@@H](C)[C@H](O)c1ccccc1,CN[C@@H](C)[C@H](O)c1ccccc1,,False
+HuskinDB,Ephedrine,CN[C@H]([C@@H](c1ccccc1)O)C,,-6.326,CN[C@@H](C)[C@H](O)c1ccccc1,CN[C@@H](C)[C@H](O)c1ccccc1,,False
+HuskinDB,Scopolamine,OC[C@H](c1ccccc1)C(=O)OC1C[C@@H]2N([C@H](C1)[C@@H]1[C@H]2O1)C,,-9.128,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,,False
+HuskinDB,Scopolamine,OC[C@H](c1ccccc1)C(=O)OC1C[C@@H]2N([C@H](C1)[C@@H]1[C@H]2O1)C,,-8.862,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,,False
+HuskinDB,Scopolamine,OC[C@H](c1ccccc1)C(=O)OC1C[C@@H]2N([C@H](C1)[C@@H]1[C@H]2O1)C,,-8.221,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,CN1[C@@H]2CC(OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,,False
+HuskinDB,Benzene,c1ccccc1,,-4.352,c1ccccc1,c1ccccc1,,False
+HuskinDB,1-Butanol,CCCCO,,-6.214,CCCCO,CCCCO,,False
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-7.556,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Corticosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.079,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-6.051,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Progesterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2C(=O)C)C)C,,-5.442,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-6.214,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Aldosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C=O)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.857,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,,False
+HuskinDB,1-Butanol,CCCCO,,-6.214,CCCCO,CCCCO,,False
+HuskinDB,Corticosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.079,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-6.079,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Salicylic acid,OC(=O)c1ccccc1O,,-7.556,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Sucrose,OC[C@H]1O[C@@]([C@H]([C@@H]1O)O)(CO)O[C@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O,,-8.84,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,,False
+HuskinDB,Water,O,,-7.079,O,O,,False
+HuskinDB,Aldosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C=O)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-8.079,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,,False
+HuskinDB,Corticosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.556,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-4.602,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-6.079,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Lidocaine,CCN(CC(=O)Nc1c(C)cccc1C)CC,,-6.079,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+HuskinDB,Naphthol,Oc1cccc2c1cccc2,,-5.141,Oc1cccc2ccccc12,Oc1cccc2ccccc12,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.711,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,Progesterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2C(=O)C)C)C,,-5.255,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-6.214,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Bisoprolol Fumarate,OC(COc1ccc(cc1)COCCOC(C)C)CNC(C)C.OC(=O)/C=C/C(=O)O,,-7.125,CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1.O=C(O)/C=C/C(=O)O,CC(C)NCC(O)COc1ccc(COCCOC(C)C)cc1.O=C(O)/C=C/C(=O)O,,False
+HuskinDB,Celiprolol Hydrochloride,CCN(C(=O)Nc1ccc(c(c1)C(=O)C)OCC(CNC(C)(C)C)O)CC.Cl,,-6.785,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1.Cl,CCN(CC)C(=O)Nc1ccc(OCC(O)CNC(C)(C)C)c(C(C)=O)c1.Cl,,False
+HuskinDB,Atenolol,OC(COc1ccc(cc1)CC(=O)N)CNC(C)C,,-7.857,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,,False
+HuskinDB,Metoprolol,COCCc1ccc(cc1)OCC(CNC(C)C)O,,-6.637,COCCc1ccc(OCC(O)CNC(C)C)cc1,COCCc1ccc(OCC(O)CNC(C)C)cc1,,False
+HuskinDB,Oxprenolol,C=CCOc1ccccc1OCC(CNC(C)C)O,,-6.369,C=CCOc1ccccc1OCC(O)CNC(C)C,C=CCOc1ccccc1OCC(O)CNC(C)C,,False
+HuskinDB,Propranolol,OC(COc1cccc2c1cccc2)CNC(C)C,,-6.306,CC(C)NCC(O)COc1cccc2ccccc12,CC(C)NCC(O)COc1cccc2ccccc12,,False
+HuskinDB,Mannitol,OC[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O,,-7.81,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,,False
+HuskinDB,Raffinose,OC[C@H]1O[C@@]([C@H]([C@@H]1O)O)(CO)O[C@H]1O[C@H](CO[C@H]2O[C@H](CO)[C@@H]([C@@H]([C@H]2O)O)O)[C@H]([C@@H]([C@H]1O)O)O,,-8.208,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O[C@]3(CO)O[C@H](CO)[C@@H](O)[C@@H]3O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O[C@]3(CO)O[C@H](CO)[C@@H](O)[C@@H]3O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,,False
+HuskinDB,Sucrose,OC[C@H]1O[C@@]([C@H]([C@@H]1O)O)(CO)O[C@H]1O[C@H](CO)[C@H]([C@@H]([C@H]1O)O)O,,-8.075,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,,False
+HuskinDB,Urea,NC(=O)N,,-7.317,NC(N)=O,NC(N)=O,,False
+HuskinDB,Nicotine,CN1CCCC1c1cccnc1,,-5.546,CN1CCCC1c1cccnc1,CN1CCCC1c1cccnc1,,False
+HuskinDB,Salicylic acid,OC(=O)c1ccccc1O,,-5.136,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.856,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,"2,4,6-Trichlorophenol",Clc1cc(Cl)c(c(c1)Cl)O,,-4.783,Oc1c(Cl)cc(Cl)cc1Cl,Oc1c(Cl)cc(Cl)cc1Cl,,False
+HuskinDB,"2,4-Dichlorophenol",Clc1ccc(c(c1)Cl)O,,-4.778,Oc1ccc(Cl)cc1Cl,Oc1ccc(Cl)cc1Cl,,False
+HuskinDB,o-Chlorophenol,Oc1ccccc1Cl,,-5.037,Oc1ccccc1Cl,Oc1ccccc1Cl,,False
+HuskinDB,o-Cresol,Cc1ccccc1O,,-5.36,Cc1ccccc1O,Cc1ccccc1O,,False
+HuskinDB,"3,4-Xylenol",Oc1ccc(c(c1)C)C,,-5.0,Cc1ccc(O)cc1C,Cc1ccc(O)cc1C,,False
+HuskinDB,m-Cresol,Cc1cccc(c1)O,,-5.373,Cc1cccc(O)c1,Cc1cccc(O)c1,,False
+HuskinDB,m-Nitrophenol,Oc1cccc(c1)[N+](=O)[O-],,-5.805,O=[N+]([O-])c1cccc(O)c1,O=[N+]([O-])c1cccc(O)c1,,False
+HuskinDB,p-Bromophenol,Oc1ccc(cc1)Br,,-4.999,Oc1ccc(Br)cc1,Oc1ccc(Br)cc1,,False
+HuskinDB,p-Chlorophenol,Oc1ccc(cc1)Cl,,-4.996,Oc1ccc(Cl)cc1,Oc1ccc(Cl)cc1,,False
+HuskinDB,p-Cresol,Cc1ccc(cc1)O,,-5.313,Cc1ccc(O)cc1,Cc1ccc(O)cc1,,False
+HuskinDB,p-Ethylphenol,CCc1ccc(cc1)O,,-5.014,CCc1ccc(O)cc1,CCc1ccc(O)cc1,,False
+HuskinDB,p-Nitrophenol,Oc1ccc(cc1)[N+](=O)[O-],,-5.81,O=[N+]([O-])c1ccc(O)cc1,O=[N+]([O-])c1ccc(O)cc1,,False
+HuskinDB,2-Naphthol,Oc1ccc2c(c1)cccc2,,-5.111,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,,False
+HuskinDB,Chlorocresol,Cc1c(O)cccc1Cl,,-4.816,Cc1c(O)cccc1Cl,Cc1c(O)cccc1Cl,,False
+HuskinDB,Chloroxylenol,Cc1ccc(c(c1C)O)Cl,,-4.785,Cc1ccc(Cl)c(O)c1C,Cc1ccc(Cl)c(O)c1C,,False
+HuskinDB,Methyl 4-hydroxybenzoate,COC(=O)c1ccc(cc1)O,,-5.596,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+HuskinDB,Phenol,Oc1ccccc1,,-5.614,Oc1ccccc1,Oc1ccccc1,,False
+HuskinDB,Resorcinol,Oc1cccc(c1)O,,-7.176,Oc1cccc(O)c1,Oc1cccc(O)c1,,False
+HuskinDB,Thymol,Cc1ccc(c(c1)O)C(C)C,,-4.834,Cc1ccc(C(C)C)c(O)c1,Cc1ccc(C(C)C)c(O)c1,,False
+HuskinDB,4-Cyanophenol,N#Cc1ccc(cc1)O,,-5.731,N#Cc1ccc(O)cc1,N#Cc1ccc(O)cc1,,False
+HuskinDB,Methyl 4-hydroxybenzoate,COC(=O)c1ccc(cc1)O,,-5.634,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+HuskinDB,Codeine,COc1ccc2c3c1OC1C43CCN(C(C2)C4C=CC1O)C,,-7.866,COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.808,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Hydromorphone,O=C1CC[C@@H]2[C@@]34[C@H]1Oc1c4c(C[C@H]2N(CC3)C)ccc1O,,-8.38,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@H]3[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@H]3[C@H]1C5,opioid (ATC N02A),True
+HuskinDB,Meperidine,CCOC(=O)C1(CCN(CC1)C)c1ccccc1,,-5.988,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,CCOC(=O)C1(c2ccccc2)CCN(C)CC1,opioid (ATC N02A),True
+HuskinDB,Morphine,O[C@H]1C=C[C@@H]2[C@@]34[C@H]1Oc1c4c(C[C@H]2N(CC3)C)ccc1O,,-8.588,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.477,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.503,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.374,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Butyl p-aminobenzoate,CCCCOC(=O)c1ccc(cc1)N,,-4.607,CCCCOC(=O)c1ccc(N)cc1,CCCCOC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+HuskinDB,Ethyl p-aminobenzoate,CCOC(=O)c1ccc(cc1)N,,-5.255,CCOC(=O)c1ccc(N)cc1,CCOC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+HuskinDB,Methyl p-aminobenzoate,COC(=O)c1ccc(cc1)N,,-5.195,COC(=O)c1ccc(N)cc1,COC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+HuskinDB,Morphine,O[C@H]1C=C[C@@H]2[C@@]34[C@H]1Oc1c4c(C[C@H]2N(CC3)C)ccc1O,,-9.352,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,opioid (ATC N02A),True
+HuskinDB,Ketorolac,OC(=O)C1CCn2c1ccc2C(=O)c1ccccc1,,-5.799,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,1-Butanol,CCCCO,,-6.158,CCCCO,CCCCO,,False
+HuskinDB,Ethanol,CCO,,-6.556,CCO,CCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-5.051,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.442,CCCCCCO,CCCCCCO,,False
+HuskinDB,Methanol,CO,,-6.556,CO,CO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.84,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Pentanol,CCCCCO,,-5.778,CCCCCO,CCCCCO,,False
+HuskinDB,1-Propanol,CCCO,,-6.41,CCCO,CCCO,,False
+HuskinDB,"2,3-Butanediol",CC(C(O)C)O,,-7.857,CC(O)C(C)O,CC(O)C(C)O,,False
+HuskinDB,Butan-2-one,CCC(=O)C,,-5.903,CCC(C)=O,CCC(C)=O,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-7.158,CCOCCO,CCOCCO,,False
+HuskinDB,Diethyl ether,CCOCC,,-5.352,CCOCC,CCOCC,,False
+HuskinDB,1-Butanol,CCCCO,,-6.079,CCCCO,CCCCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-4.981,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Propanol,CCCO,,-6.326,CCCO,CCCO,,False
+HuskinDB,Aldosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C=O)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-9.079,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C=O)[C@@H](C(=O)CO)CC[C@@H]12,,False
+HuskinDB,Cortexolone,OCC(=O)C1(O)CCC2C1(C)CCC1C2CCC2=CC(=O)CCC12C,,-7.681,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(O)C(=O)CO,CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(O)C(=O)CO,,False
+HuskinDB,Cortexone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)CC[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-6.903,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,Corticosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.778,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,Cortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)CC(=O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-8.556,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2C(=O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2C(=O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-7.079,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Estriol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1C[C@H]([C@@H]2O)O)C,,-7.954,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@@H]2O,,False
+HuskinDB,Estrone,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CCC2=O)C,,-6.0,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CCC2=O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CCC2=O,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-9.079,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Hydroxypregnenolone,CC(=O)[C@H]1CC[C@@H]2[C@]1(C)CC[C@H]1[C@H]2CC=C2[C@]1(C)CCC(C2)(O)O,,-6.778,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC=C4CC(O)(O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC=C4CC(O)(O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+HuskinDB,17-Hydroxyprogesterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@]2(O)C(=O)C)C)C,,-6.778,CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,,False
+HuskinDB,Pregnenolone,O[C@H]1CC[C@]2(C(=CC[C@@H]3[C@@H]2CC[C@]2([C@H]3CC[C@@H]2C(=O)C)C)C1)C,,-6.38,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+HuskinDB,Progesterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2C(=O)C)C)C,,-6.38,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-6.954,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Ethanol,CCO,,-3.653,CCO,CCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-2.051,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-2.442,CCCCCCO,CCCCCCO,,False
+HuskinDB,Methanol,CO,,-3.857,CO,CO,,False
+HuskinDB,1-Nonanol,CCCCCCCCCO,,-1.778,CCCCCCCCCO,CCCCCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-1.84,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Propanol,CCCO,,-3.41,CCCO,CCCO,,False
+HuskinDB,1-Butanol,CCCCO,,-7.778,CCCCO,CCCCO,,False
+HuskinDB,1-Butanol,CCCCO,,-6.158,CCCCO,CCCCO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-9.653,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-4.653,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,Ethanol,CCO,,-6.699,CCO,CCO,,False
+HuskinDB,Ethanol,CCO,,-6.653,CCO,CCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-5.051,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-8.158,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.442,CCCCCCO,CCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-7.84,CCCCCCO,CCCCCCO,,False
+HuskinDB,Methanol,CO,,-5.539,CO,CO,,False
+HuskinDB,Methanol,CO,,-6.857,CO,CO,,False
+HuskinDB,1-Nonanol,CCCCCCCCCO,,-4.778,CCCCCCCCCO,CCCCCCCCCO,,False
+HuskinDB,1-Nonanol,CCCCCCCCCO,,-9.079,CCCCCCCCCO,CCCCCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.84,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-8.556,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Pentanol,CCCCCO,,-5.778,CCCCCO,CCCCCO,,False
+HuskinDB,1-Pentanol,CCCCCO,,-7.849,CCCCCO,CCCCCO,,False
+HuskinDB,1-Propanol,CCCO,,-6.477,CCCO,CCCO,,False
+HuskinDB,1-Propanol,CCCO,,-7.352,CCCO,CCCO,,False
+HuskinDB,Betamethasone-17-valerate,CCCCC(=O)OC1(C(C)CC2C1(C)CC(O)C1(C2CCC2=CC(=O)C=CC12C)F)C(=O)CO,,-6.496,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,,False
+HuskinDB,Corticosterone,OCC(=O)[C@H]1CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-8.206,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2C(=O)CO,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-9.106,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Prednisolone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)C=C[C@]12C,,-7.906,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-6.626,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Triamcinolone,OCC(=O)[C@@]1(O)[C@H](O)C[C@@H]2[C@]1(C)C[C@H](O)[C@]1([C@H]2CCC2=CC(=O)C=C[C@]12C)F,,-8.956,C[C@]12C=CC(=O)C=C1CC[C@H]1[C@@H]3C[C@@H](O)[C@](O)(C(=O)CO)[C@@]3(C)C[C@H](O)[C@@]12F,C[C@]12C=CC(=O)C=C1CC[C@H]1[C@@H]3C[C@@H](O)[C@](O)(C(=O)CO)[C@@]3(C)C[C@H](O)[C@@]12F,,False
+HuskinDB,Triamcinolone acetonide,OCC(=O)[C@@]12OC(O[C@@H]1C[C@@H]1[C@]2(C)C[C@H](O)[C@]2([C@H]1CCC1=CC(=O)C=C[C@]21C)F)(C)C,,-8.251,CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1,CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1,,False
+HuskinDB,Flurbiprofen,OC(=O)C(c1ccc(c(c1)F)c1ccccc1)C,,-5.331,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Flurbiprofen glucoside,OC1O[C@H](COC(=O)C(c2ccc(c(c2)F)c2ccccc2)C)[C@H]([C@@H]([C@H]1O)O)O,,-6.477,CC(C(=O)OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O)c1ccc(-c2ccccc2)c(F)c1,CC(C(=O)OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O)c1ccc(-c2ccccc2)c(F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Flurbiprofen mannoside,OC1O[C@H](COC(=O)C(c2ccc(c(c2)F)c2ccccc2)C)[C@H]([C@@H]([C@@H]1O)O)O,,-6.935,CC(C(=O)OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O)c1ccc(-c2ccccc2)c(F)c1,CC(C(=O)OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O)c1ccc(-c2ccccc2)c(F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ibuprofen,CC(Cc1ccc(cc1)C(C(=O)O)C)C,,-5.503,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ibuprofen glucoside,CC(Cc1ccc(cc1)C(C(=O)OC[C@H]1OC(O)[C@@H]([C@H]([C@@H]1O)O)O)C)C,,-6.945,CC(C)Cc1ccc(C(C)C(=O)OC[C@H]2OC(O)[C@H](O)[C@@H](O)[C@@H]2O)cc1,CC(C)Cc1ccc(C(C)C(=O)OC[C@H]2OC(O)[C@H](O)[C@@H](O)[C@@H]2O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ibuprofen mannoside,CC(Cc1ccc(cc1)C(C(=O)OC[C@H]1OC(O)[C@H]([C@H]([C@@H]1O)O)O)C)C,,-6.548,CC(C)Cc1ccc(C(C)C(=O)OC[C@H]2OC(O)[C@@H](O)[C@@H](O)[C@@H]2O)cc1,CC(C)Cc1ccc(C(C)C(=O)OC[C@H]2OC(O)[C@@H](O)[C@@H](O)[C@@H]2O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ketoprofen,OC(=O)C(c1cccc(c1)C(=O)c1ccccc1)C,,-6.151,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ketoprofen glucoside,OC1O[C@H](COC(=O)C(c2cccc(c2)C(=O)c2ccccc2)C)[C@H]([C@@H]([C@H]1O)O)O,,-7.731,CC(C(=O)OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O)c1cccc(C(=O)c2ccccc2)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Ketoprofen mannoside,OC1O[C@H](COC(=O)C(c2cccc(c2)C(=O)c2ccccc2)C)[C@H]([C@@H]([C@@H]1O)O)O,,-7.594,CC(C(=O)OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)OC[C@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O)c1cccc(C(=O)c2ccccc2)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Naproxen,COc1ccc2c(c1)ccc(c2)C(C(=O)O)C,,-7.218,COc1ccc2cc(C(C)C(=O)O)ccc2c1,COc1ccc2cc(C(C)C(=O)O)ccc2c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Naproxen glucoside,COc1ccc2c(c1)ccc(c2)[C@@H](C(=O)OC[C@H]1OC(O)[C@@H]([C@H]([C@@H]1O)O)O)C,,-7.886,COc1ccc2cc([C@H](C)C(=O)OC[C@H]3OC(O)[C@H](O)[C@@H](O)[C@@H]3O)ccc2c1,COc1ccc2cc([C@H](C)C(=O)OC[C@H]3OC(O)[C@H](O)[C@@H](O)[C@@H]3O)ccc2c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Naproxen mannoside,COc1ccc2c(c1)ccc(c2)[C@@H](C(=O)OC[C@H]1OC(O)[C@H]([C@H]([C@@H]1O)O)O)C,,-7.7,COc1ccc2cc([C@H](C)C(=O)OC[C@H]3OC(O)[C@@H](O)[C@@H](O)[C@@H]3O)ccc2c1,COc1ccc2cc([C@H](C)C(=O)OC[C@H]3OC(O)[C@@H](O)[C@@H](O)[C@@H]3O)ccc2c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Aspartic acid,OC(=O)CC(C(=O)O)N,,-7.432,NC(CC(=O)O)C(=O)O,NC(CC(=O)O)C(=O)O,,False
+HuskinDB,Aspartic acid,OC(=O)CC(C(=O)O)N,,-7.585,NC(CC(=O)O)C(=O)O,NC(CC(=O)O)C(=O)O,,False
+HuskinDB,Histidine,N[C@H](C(=O)O)Cc1c[nH]cn1,,-7.907,N[C@@H](Cc1c[nH]cn1)C(=O)O,N[C@@H](Cc1c[nH]cn1)C(=O)O,,False
+HuskinDB,Histidine,N[C@H](C(=O)O)Cc1c[nH]cn1,,-7.812,N[C@@H](Cc1c[nH]cn1)C(=O)O,N[C@@H](Cc1c[nH]cn1)C(=O)O,,False
+HuskinDB,Histidine,N[C@H](C(=O)O)Cc1c[nH]cn1,,-7.903,N[C@@H](Cc1c[nH]cn1)C(=O)O,N[C@@H](Cc1c[nH]cn1)C(=O)O,,False
+HuskinDB,Lysine,NCCCC[C@@H](C(=O)O)N,,-7.328,NCCCC[C@H](N)C(=O)O,NCCCC[C@H](N)C(=O)O,,False
+HuskinDB,Lysine,NCCCC[C@@H](C(=O)O)N,,-6.86,NCCCC[C@H](N)C(=O)O,NCCCC[C@H](N)C(=O)O,,False
+HuskinDB,Bromochloroacetonitrile,ClC(C#N)Br,,-4.352,N#CC(Cl)Br,N#CC(Cl)Br,,False
+HuskinDB,Chloral hydrate,OC(C(Cl)(Cl)Cl)O,,-5.965,OC(O)C(Cl)(Cl)Cl,OC(O)C(Cl)(Cl)Cl,,False
+HuskinDB,Chloroacetonitrile,ClCC#N,,-4.561,N#CCCl,N#CCCl,,False
+HuskinDB,Dibromoacetonitrile,BrC(C#N)Br,,-4.326,N#CC(Br)Br,N#CC(Br)Br,,False
+HuskinDB,Dichloroacetonitrile,ClC(C#N)Cl,,-4.38,N#CC(Cl)Cl,N#CC(Cl)Cl,,False
+HuskinDB,Trichloroacetonitrile,N#CC(Cl)(Cl)Cl,,-4.604,N#CC(Cl)(Cl)Cl,N#CC(Cl)(Cl)Cl,,False
+HuskinDB,Haloperidol,Fc1ccc(cc1)C(=O)CCCN1CCC(CC1)(O)c1ccc(cc1)Cl,,-7.03,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1,,False
+HuskinDB,Levosimendan,N#CC(=NNc1ccc(cc1)C1=NNC(=O)C[C@H]1C)C#N,,-6.484,C[C@@H]1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,C[C@@H]1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,,False
+HuskinDB,Levosimendan,N#CC(=NNc1ccc(cc1)C1=NNC(=O)C[C@H]1C)C#N,,-7.954,C[C@@H]1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,C[C@@H]1CC(=O)NN=C1c1ccc(NN=C(C#N)C#N)cc1,,False
+HuskinDB,Diethylene glycol mono n-butyl ether acetate,CCCCOCCOCCOC(=O)C,,-7.051,CCCCOCCOCCOC(C)=O,CCCCOCCOCCOC(C)=O,,False
+HuskinDB,Dipropylene glycol mono methyl ether,OCC(OCC(OC)C)C,,-7.653,COC(C)COC(C)CO,COC(C)COC(C)CO,,False
+HuskinDB,Ethylene glycol mono isopropyl ether,OCCOC(C)C,,-6.913,CC(C)OCCO,CC(C)OCCO,,False
+HuskinDB,Ethylene glycol mono methyl ether acetate,COCCOC(=O)C,,-6.299,COCCOC(C)=O,COCCOC(C)=O,,False
+HuskinDB,2-Propoxyethanol,CCCOCCO,,-6.543,CCCOCCO,CCCOCCO,,False
+HuskinDB,Diethylene glycol mono n-butyl ether acetate,CCCCOCCOCCOC(=O)C,,-7.778,CCCCOCCOCCOC(C)=O,CCCCOCCOCCOC(C)=O,,False
+HuskinDB,Dipropylene glycol mono methyl ether,OCC(OCC(OC)C)C,,-7.515,COC(C)COC(C)CO,COC(C)COC(C)CO,,False
+HuskinDB,Ethylene glycol mono isopropyl ether,OCCOC(C)C,,-7.125,CC(C)OCCO,CC(C)OCCO,,False
+HuskinDB,Ethylene glycol mono methyl ether acetate,COCCOC(=O)C,,-6.637,COCCOC(C)=O,COCCOC(C)=O,,False
+HuskinDB,2-Propoxyethanol,CCCOCCO,,-6.923,CCCOCCO,CCCOCCO,,False
+HuskinDB,Acyclovir,Nc1nc(=O)c2c([nH]1)n(COCCO)cn2,,-7.079,Nc1nc(=O)c2ncn(COCCO)c2[nH]1,Nc1nc(=O)c2ncn(COCCO)c2[nH]1,,False
+HuskinDB,1-Methoxy-2-Propanol,COCC(O)C,,-6.397,COCC(C)O,COCC(C)O,,False
+HuskinDB,2-Butoxyethanol,CCCCOCCO,,-5.34,CCCCOCCO,CCCCOCCO,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-5.544,CCOCCO,CCOCCO,,False
+HuskinDB,5-Fluorouracil,Fc1c[nH]c(=O)[nH]c1=O,,-7.574,O=c1[nH]cc(F)c(=O)[nH]1,O=c1[nH]cc(F)c(=O)[nH]1,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.488,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,"1,1,1-Trichloropropanone",CC(=O)C(Cl)(Cl)Cl,,-5.176,CC(=O)C(Cl)(Cl)Cl,CC(=O)C(Cl)(Cl)Cl,,False
+HuskinDB,"1,1-Dichloropropanone",ClC(C(=O)C)Cl,,-4.923,CC(=O)C(Cl)Cl,CC(=O)C(Cl)Cl,,False
+HuskinDB,Bromoacetic acid,OC(=O)CBr,,-6.41,O=C(O)CBr,O=C(O)CBr,,False
+HuskinDB,Bromochloroacetic acid,OC(=O)C(Br)Cl,,-6.352,O=C(O)C(Cl)Br,O=C(O)C(Cl)Br,,False
+HuskinDB,Bromodichloromethane,ClC(Br)Cl,,-4.301,ClC(Cl)Br,ClC(Cl)Br,,False
+HuskinDB,Bromoform,BrC(Br)Br,,-4.234,BrC(Br)Br,BrC(Br)Br,,False
+HuskinDB,Chloroacetic acid,OC(=O)CCl,,-6.515,O=C(O)CCl,O=C(O)CCl,,False
+HuskinDB,Chlorodibromomethane,ClC(Br)Br,,-4.255,ClC(Br)Br,ClC(Br)Br,,False
+HuskinDB,Chloroform,ClC(Cl)Cl,,-4.352,ClC(Cl)Cl,ClC(Cl)Cl,,False
+HuskinDB,Dibromoacetic acid,BrC(C(=O)O)Br,,-6.141,O=C(O)C(Br)Br,O=C(O)C(Br)Br,,False
+HuskinDB,Dichloroacetic acid,ClC(C(=O)O)Cl,,-6.278,O=C(O)C(Cl)Cl,O=C(O)C(Cl)Cl,,False
+HuskinDB,Trichloroacetic acid,OC(=O)C(Cl)(Cl)Cl,,-6.278,O=C(O)C(Cl)(Cl)Cl,O=C(O)C(Cl)(Cl)Cl,,False
+HuskinDB,2-Naphthol,Oc1ccc2c(c1)cccc2,,-4.757,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,,False
+HuskinDB,4-Propoxyphenol,CCCOc1ccc(cc1)O,,-5.38,CCCOc1ccc(O)cc1,CCCOc1ccc(O)cc1,,False
+HuskinDB,Carvacrol,CC(c1ccc(c(c1)O)C)C,,-4.81,Cc1ccc(C(C)C)cc1O,Cc1ccc(C(C)C)cc1O,,False
+HuskinDB,Chlorocresol,Cc1c(O)cccc1Cl,,-5.0,Cc1c(O)cccc1Cl,Cc1c(O)cccc1Cl,,False
+HuskinDB,Chloroxylenol,Cc1ccc(c(c1C)O)Cl,,-4.651,Cc1ccc(Cl)c(O)c1C,Cc1ccc(Cl)c(O)c1C,,False
+HuskinDB,Methyl 4-hydroxybenzoate,COC(=O)c1ccc(cc1)O,,-5.632,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+HuskinDB,Methyl salicylate,COC(=O)c1ccccc1O,,-5.0,COC(=O)c1ccccc1O,COC(=O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,o-t-Butylphenol,Oc1ccccc1C(C)(C)C,,-4.685,CC(C)(C)c1ccccc1O,CC(C)(C)c1ccccc1O,,False
+HuskinDB,p-n-Butylphenol,CCCCc1ccc(cc1)O,,-4.671,CCCCc1ccc(O)cc1,CCCCc1ccc(O)cc1,,False
+HuskinDB,Thymol,Cc1ccc(c(c1)O)C(C)C,,-4.77,Cc1ccc(C(C)C)c(O)c1,Cc1ccc(C(C)C)c(O)c1,,False
+HuskinDB,Water,O,,-5.41,O,O,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-4.859,CCCCCCO,CCCCCCO,,False
+HuskinDB,Water,O,,-6.41,O,O,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.114,CCCCCCO,CCCCCCO,,False
+HuskinDB,Acyclovir,Nc1nc(=O)c2c([nH]1)n(COCCO)cn2,,-7.778,Nc1nc(=O)c2ncn(COCCO)c2[nH]1,Nc1nc(=O)c2ncn(COCCO)c2[nH]1,,False
+HuskinDB,Betamethasone-17-valerate,CCCCC(=O)OC1(C(C)CC2C1(C)CC(O)C1(C2CCC2=CC(=O)C=CC12C)F)C(=O)CO,,-5.525,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,,False
+HuskinDB,Bisphenol A diglycidyl ether,CC(c1ccc(cc1)OCC1OC1)(c1ccc(cc1)OCC1OC1)C,,-9.875,CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1,CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1,,False
+HuskinDB,Epikote YX4000,Cc1cc(cc(c1OCC1OC1)C)c1cc(C)c(c(c1)C)OCC1OC1,,-10.884,Cc1cc(-c2cc(C)c(OCC3CO3)c(C)c2)cc(C)c1OCC1CO1,Cc1cc(-c2cc(C)c(OCC3CO3)c(C)c2)cc(C)c1OCC1CO1,,False
+HuskinDB,"1,6-hexanediol diglycidyl ether",C(CCOCC1OC1)CCCOCC1OC1,,-7.423,C(CCCOCC1CO1)CCOCC1CO1,C(CCCOCC1CO1)CCOCC1CO1,,False
+HuskinDB,1-Dodecyl glycidyl ether,CCCCCCCCCCCCOCC1OC1,,-9.036,CCCCCCCCCCCCOCC1CO1,CCCCCCCCCCCCOCC1CO1,,False
+HuskinDB,o-Cresyl glycidyl ether,Cc1ccccc1OCC1CO1,,-7.588,Cc1ccccc1OCC1CO1,Cc1ccccc1OCC1CO1,,False
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-6.828,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.73,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Water,O,,-6.597,O,O,,False
+HuskinDB,Water,O,,-6.707,O,O,,False
+HuskinDB,Mannitol,OC[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O,,-8.158,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,,False
+HuskinDB,Mannitol,OC[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O,,-7.923,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,,False
+HuskinDB,Chlorpyrifos,CCOP(=S)(Oc1nc(Cl)c(cc1Cl)Cl)OCC,,-7.158,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,,False
+HuskinDB,Trimethylamine,CN(C)C,,-7.284,CN(C)C,CN(C)C,,False
+HuskinDB,Lidocaine,CCN(CC(=O)Nc1c(C)cccc1C)CC,,-7.021,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+HuskinDB,Lidocaine,CCN(CC(=O)Nc1c(C)cccc1C)CC,,-6.967,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+HuskinDB,Lidocaine,CCN(CC(=O)Nc1c(C)cccc1C)CC,,-5.707,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+HuskinDB,Lidocaine,CCN(CC(=O)Nc1c(C)cccc1C)CC,,-5.53,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-7.785,CCOCCO,CCOCCO,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-7.687,CCOCCO,CCOCCO,,False
+HuskinDB,Water,O,,-6.429,O,O,,False
+HuskinDB,5-Fluorouracil,Fc1c[nH]c(=O)[nH]c1=O,,-8.015,O=c1[nH]cc(F)c(=O)[nH]1,O=c1[nH]cc(F)c(=O)[nH]1,,False
+HuskinDB,2-phenoxyethanol,OCCOc1ccccc1,,-6.43,OCCOc1ccccc1,OCCOc1ccccc1,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.357,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.357,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.431,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.681,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-7.577,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.489,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.476,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.489,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.476,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-5.596,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-4.945,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Boric acid,OB(O)O,,-7.199,OB(O)O,OB(O)O,,False
+HuskinDB,Borax,[O-]B1OB2OB(OB(O1)O2)[O-].[Na+].[Na+],,-7.326,[Na+].[Na+].[O-]B1OB2OB([O-])OB(O1)O2,[Na+].[Na+].[O-]B1OB2OB([O-])OB(O1)O2,,False
+HuskinDB,Disodium octaborate tetrahydrate,[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].O.O.O.O.[Na+].[Na+],,-7.653,O.O.O.O.[Na+].[Na+].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-],O.O.O.O.[Na+].[Na+].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-],,False
+HuskinDB,Glyphosate,OC(=O)CNCP(=O)(O)O,,-6.894,O=C(O)CNCP(=O)(O)O,O=C(O)CNCP(=O)(O)O,,False
+HuskinDB,Malathion,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC,,-4.249,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,,False
+HuskinDB,Parathion,CCOP(=S)(Oc1ccc(cc1)[N+](=O)[O-])OCC,,-7.28,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,,False
+HuskinDB,Water,O,,-5.24,O,O,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-4.888,CCCCCCO,CCCCCCO,,False
+HuskinDB,Water,O,,-6.426,O,O,,False
+HuskinDB,Ethanol,CCO,,-6.352,CCO,CCO,,False
+HuskinDB,1-Butanol,CCCCO,,-5.816,CCCCO,CCCCO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-6.41,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.778,CCCCCCO,CCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-5.642,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,Ethanol,CCO,,-5.214,CCO,CCO,,False
+HuskinDB,1-Butanol,CCCCO,,-5.193,CCCCO,CCCCO,,False
+HuskinDB,1-Decanol,CCCCCCCCCCO,,-5.832,CCCCCCCCCCO,CCCCCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.637,CCCCCCO,CCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-5.764,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,2-Amino-4-Nitrophenol,[O-][N+](=O)c1ccc(c(c1)N)O,,-6.737,Nc1cc([N+](=O)[O-])ccc1O,Nc1cc([N+](=O)[O-])ccc1O,,False
+HuskinDB,4-Amino-2-Nitrophenol,Nc1ccc(c(c1)[N+](=O)[O-])O,,-6.109,Nc1ccc(O)c([N+](=O)[O-])c1,Nc1ccc(O)c([N+](=O)[O-])c1,,False
+HuskinDB,1-Butanol,CCCCO,,-4.703,CCCCO,CCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.833,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Octyl-2-Pyrrolidone,CCCCCCCCN1CCCC1=O,,-4.81,CCCCCCCCN1CCCC1=O,CCCCCCCCN1CCCC1=O,,False
+HuskinDB,1-Octyl-2-Azacycloheptanone,CCCCCCCCN1CCCCCC1=O,,-4.674,CCCCCCCCN1CCCCCC1=O,CCCCCCCCN1CCCCCC1=O,,False
+HuskinDB,Amphetamine,CC(Cc1ccccc1)N,,-4.577,CC(N)Cc1ccccc1,CC(N)Cc1ccccc1,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-4.815,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Ouabain,OC[C@@]12[C@H](O)C[C@@H](C[C@@]2(O)CCC2C1[C@H](O)C[C@]1([C@]2(O)CC[C@@H]1C1=CC(=O)OC1)C)O[C@@H]1O[C@@H](C)[C@@H]([C@H]([C@H]1O)O)O,,-4.83,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3=CC(=O)OC3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O,C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)C4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3=CC(=O)OC3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O,,False
+HuskinDB,Flufenamic acid,OC(=O)c1ccccc1Nc1cccc(c1)C(F)(F)F,,-6.201,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Flufenamic acid,OC(=O)c1ccccc1Nc1cccc(c1)C(F)(F)F,,-6.094,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Flufenamic acid,OC(=O)c1ccccc1Nc1cccc(c1)C(F)(F)F,,-6.111,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,L-alanyl-L-tryptophan,OC(=O)[C@H](Cc1c[nH]c2c1cccc2)NC(=O)[C@@H](N)C,,-8.637,C[C@H](N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,C[C@H](N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O,,False
+HuskinDB,Butyl p-aminobenzoate,CCCCOC(=O)c1ccc(cc1)N,,-4.41,CCCCOC(=O)c1ccc(N)cc1,CCCCOC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+HuskinDB,Methyl p-aminobenzoate,COC(=O)c1ccc(cc1)N,,-5.012,COC(=O)c1ccc(N)cc1,COC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+HuskinDB,1-Pentanol,CCCCCO,,-2.778,CCCCCO,CCCCCO,,False
+HuskinDB,1-Butanol,CCCCO,,-6.556,CCCCO,CCCCO,,False
+HuskinDB,1-Butanol,CCCCO,,-5.079,CCCCO,CCCCO,,False
+HuskinDB,Ethanol,CCO,,-5.711,CCO,CCO,,False
+HuskinDB,Ethanol,CCO,,-5.012,CCO,CCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-5.158,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Heptanol,CCCCCCCO,,-7.711,CCCCCCCO,CCCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-5.255,CCCCCCO,CCCCCCO,,False
+HuskinDB,1-Hexanol,CCCCCCO,,-7.012,CCCCCCO,CCCCCCO,,False
+HuskinDB,Methanol,CO,,-5.195,CO,CO,,False
+HuskinDB,Methanol,CO,,-4.832,CO,CO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-5.141,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-8.255,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,1-Pentanol,CCCCCO,,-5.176,CCCCCO,CCCCCO,,False
+HuskinDB,1-Pentanol,CCCCCO,,-6.653,CCCCCO,CCCCCO,,False
+HuskinDB,1-Propanol,CCCO,,-5.065,CCCO,CCCO,,False
+HuskinDB,1-Propanol,CCCO,,-6.301,CCCO,CCCO,,False
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-7.079,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-6.442,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.849,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.705,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.452,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.206,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.115,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.013,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC1)CCc1ccccc1,,-5.039,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-6.894,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-6.158,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.764,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.552,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.36,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.193,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.082,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.018,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Sufentanil,COCC1(CCN(CC1)CCc1cccs1)N(c1ccccc1)C(=O)CC,,-5.029,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1,opioid (ATC N02A),True
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-7.145,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Salicylic acid,OC(=O)c1ccccc1O,,-6.216,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,"NSAID / non-opioid (ATC M01A, N02B)",True
+HuskinDB,Hydrocortisone,OCC(=O)[C@@]1(O)CC[C@@H]2[C@]1(C)C[C@H](O)[C@H]1[C@H]2CCC2=CC(=O)CC[C@]12C,,-9.195,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+HuskinDB,Clotrimazole,Clc1ccccc1C(n1cncc1)(c1ccccc1)c1ccccc1,,-9.255,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,,False
+HuskinDB,Terbinafine,CN(Cc1cccc2c1cccc2)CC=CC#CC(C)(C)C,,-9.556,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12,CN(CC=CC#CC(C)(C)C)Cc1cccc2ccccc12,,False
+HuskinDB,Triclosan,Clc1ccc(c(c1)O)Oc1ccc(cc1Cl)Cl,,-7.269,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-6.556,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Estradiol,Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C,,-5.556,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Lindane,ClC1C(Cl)C(Cl)C(C(C1Cl)Cl)Cl,,-8.784,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,,False
+HuskinDB,Lindane,ClC1C(Cl)C(Cl)C(C(C1Cl)Cl)Cl,,-6.691,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,,False
+HuskinDB,Lindane,ClC1C(Cl)C(Cl)C(C(C1Cl)Cl)Cl,,-7.109,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,,False
+HuskinDB,Lindane,ClC1C(Cl)C(Cl)C(C(C1Cl)Cl)Cl,,-7.887,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,,False
+HuskinDB,2-Methoxyethanol,COCCO,,-6.095,COCCO,COCCO,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-6.631,CCOCCO,CCOCCO,,False
+HuskinDB,2-Ethoxyethyl acetate,CCOCCOC(=O)C,,-6.649,CCOCCOC(C)=O,CCOCCOC(C)=O,,False
+HuskinDB,2-Butoxyethanol,CCCCOCCO,,-7.226,CCCCOCCO,CCCCOCCO,,False
+HuskinDB,1-Methoxy-2-Propanol,COCC(O)C,,-6.459,COCC(C)O,COCC(C)O,,False
+HuskinDB,2-(2-Methoxyethoxy)ethanol,COCCOCCO,,-7.242,COCCOCCO,COCCOCCO,,False
+HuskinDB,2-(2-Ethoxyethoxy)ethanol,OCCOCCOCC,,-7.436,CCOCCOCCO,CCOCCOCCO,,False
+HuskinDB,Diethylene glycol monobutyl ether,CCCCOCCOCCO,,-8.004,CCCCOCCOCCO,CCCCOCCOCCO,,False
+HuskinDB,Water,O,,-6.751,O,O,,False
+HuskinDB,Ethanol,CCO,,-7.055,CCO,CCO,,False
+HuskinDB,Mannitol,OC[C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O,,-7.771,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,,False
+HuskinDB,Paraquat,C[n+]1ccc(cc1)c1cc[n+](cc1)C,,-8.617,C[n+]1ccc(-c2cc[n+](C)cc2)cc1,C[n+]1ccc(-c2cc[n+](C)cc2)cc1,,False
+HuskinDB,Hydroquinone,Oc1ccc(cc1)O,,-8.586,Oc1ccc(O)cc1,Oc1ccc(O)cc1,,False
+HuskinDB,Water,O,,-6.588,O,O,,False
+HuskinDB,n-Nitrosodiethanolamine,OCCN(N=O)CCO,,-5.944,O=NN(CCO)CCO,O=NN(CCO)CCO,,False
+HuskinDB,Nicorandil,[O-][N+](=O)OCCNC(=O)c1cccnc1,,-7.131,O=C(NCCO[N+](=O)[O-])c1cccnc1,O=C(NCCO[N+](=O)[O-])c1cccnc1,,False
+HuskinDB,Methanol,CO,,-6.352,CO,CO,,False
+HuskinDB,1-Octanol,CCCCCCCCO,,-4.771,CCCCCCCCO,CCCCCCCCO,,False
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-6.352,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-7.007,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-7.503,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-7.209,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-6.613,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-6.807,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-6.503,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,Methotrexate,OC(=O)CC[C@@H](C(=O)O)NC(=O)c1ccc(cc1)N(Cc1cnc2c(n1)c(N)nc(n2)N)C,,-6.84,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,False
+HuskinDB,2-Phenylphenol,Oc1ccccc1c1ccccc1,,-6.355,Oc1ccccc1-c1ccccc1,Oc1ccccc1-c1ccccc1,,False
+HuskinDB,2-Phenylphenol,Oc1ccccc1c1ccccc1,,-5.294,Oc1ccccc1-c1ccccc1,Oc1ccccc1-c1ccccc1,,False
+HuskinDB,Dimethyl Phthalate,COC(=O)c1ccccc1C(=O)OC,,-8.035,COC(=O)c1ccccc1C(=O)OC,COC(=O)c1ccccc1C(=O)OC,,False
+HuskinDB,Diethyl Phthalate,CCOC(=O)c1ccccc1C(=O)OCC,,-8.499,CCOC(=O)c1ccccc1C(=O)OCC,CCOC(=O)c1ccccc1C(=O)OCC,,False
+HuskinDB,Dibutyl Phthalate,CCCCOC(=O)c1ccccc1C(=O)OCCCC,,-9.195,CCCCOC(=O)c1ccccc1C(=O)OCCCC,CCCCOC(=O)c1ccccc1C(=O)OCCCC,,False
+HuskinDB,Bis(2-ethylhexyl)phthalate,CCCCC(COC(=O)c1ccccc1C(=O)OCC(CCCC)CC)CC,,-8.8,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,,False
+HuskinDB,Etorphine,CCCC(C1CC23C=CC1(OC)C1C43CCN(C2Cc2c4c(O1)c(O)cc2)C)(O)C,,-6.0,CCCC(C)(O)C1CC23C=CC1(OC)C1Oc4c(O)ccc5c4C12CCN(C)C3C5,CCCC(C)(O)C1CC23C=CC1(OC)C1Oc4c(O)ccc5c4C12CCN(C)C3C5,opioid (ATC N02A),True
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-6.792,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-6.78,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.392,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.561,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.477,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.535,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.699,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.474,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-6.446,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-6.954,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-7.158,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,"N,N-Diethyl-m-toluamide",CCN(C(=O)c1cccc(c1)C)CC,,-8.352,CCN(CC)C(=O)c1cccc(C)c1,CCN(CC)C(=O)c1cccc(C)c1,,False
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-6.541,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,,-6.915,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-6.898,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Testosterone,O=C1CC[C@]2(C(=C1)CC[C@@H]1[C@@H]2CC[C@]2([C@H]1CC[C@@H]2O)C)C,,-7.903,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+HuskinDB,Butoxyethanol,CCCCOC(O)C,,-5.982,CCCCOC(C)O,CCCCOC(C)O,,False
+HuskinDB,Butoxyethanol,CCCCOC(O)C,,-6.364,CCCCOC(C)O,CCCCOC(C)O,,False
+HuskinDB,Propoxur,CNC(=O)Oc1ccccc1OC(C)C,,-6.324,CNC(=O)Oc1ccccc1OC(C)C,CNC(=O)Oc1ccccc1OC(C)C,,False
+HuskinDB,Propoxur,CNC(=O)Oc1ccccc1OC(C)C,,-5.878,CNC(=O)Oc1ccccc1OC(C)C,CNC(=O)Oc1ccccc1OC(C)C,,False
+HuskinDB,Propoxur,CNC(=O)Oc1ccccc1OC(C)C,,-5.797,CNC(=O)Oc1ccccc1OC(C)C,CNC(=O)Oc1ccccc1OC(C)C,,False
+HuskinDB,Propoxur,CNC(=O)Oc1ccccc1OC(C)C,,-5.912,CNC(=O)Oc1ccccc1OC(C)C,CNC(=O)Oc1ccccc1OC(C)C,,False
+HuskinDB,"4,4'-Methylenedianiline",Nc1ccc(cc1)Cc1ccc(cc1)N,,-6.219,Nc1ccc(Cc2ccc(N)cc2)cc1,Nc1ccc(Cc2ccc(N)cc2)cc1,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-5.647,CCOCCO,CCOCCO,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-5.63,CCOCCO,CCOCCO,,False
+HuskinDB,2-Ethoxyethanol,OCCOCC,,-5.545,CCOCCO,CCOCCO,,False
+HuskinDB,Propranolol-HCl,OC(COc1cccc2c1cccc2)CNC(C)C.Cl,,-4.705,CC(C)NCC(O)COc1cccc2ccccc12.Cl,CC(C)NCC(O)COc1cccc2ccccc12.Cl,,False
+HuskinDB,Prazosin hydrochloride,COc1cc2nc(nc(c2cc1OC)N)N1CCN(CC1)C(=O)c1ccco1.Cl,,-5.711,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC.Cl,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC.Cl,,False
+HuskinDB,Minoxidil,Nc1cc(nc(=N)n1O)N1CCCCC1,,-5.477,N=c1nc(N2CCCCC2)cc(N)n1O,N=c1nc(N2CCCCC2)cc(N)n1O,,False
+HuskinDB,Atenolol,OC(COc1ccc(cc1)CC(=O)N)CNC(C)C,,-4.764,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,,False
+SkinPiX,"2,4-Dinitrochlorobenzene",C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,97-00-7,-5.102,O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,,False
+SkinPiX,"2,4-Dinitrochlorobenzene",C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,97-00-7,-5.056,O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,,False
+SkinPiX,"2,5-Diaminotoluene",CC1=C(C=CC(=C1)N)N,95-70-5,-6.038,Cc1cc(N)ccc1N,Cc1cc(N)ccc1N,,False
+SkinPiX,"2,5-Diaminotoluene",CC1=C(C=CC(=C1)N)N,95-70-5,-6.125,Cc1cc(N)ccc1N,Cc1cc(N)ccc1N,,False
+SkinPiX,2-(Acetylamino)fluorene,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2,53-96-3,-4.726,CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,,False
+SkinPiX,2-(Acetylamino)fluorene,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2,53-96-3,-4.664,CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,CC(=O)Nc1ccc2c(c1)Cc1ccccc1-2,,False
+SkinPiX,2-Ethylhexyl acrylate,CCCCC(CC)COC(=O)C=C,103-11-7,-5.072,C=CC(=O)OCC(CC)CCCC,C=CC(=O)OCC(CC)CCCC,,False
+SkinPiX,2-Ethylhexyl acrylate,CCCCC(CC)COC(=O)C=C,103-11-7,-5.381,C=CC(=O)OCC(CC)CCCC,C=CC(=O)OCC(CC)CCCC,,False
+SkinPiX,2-Nitro-p-phenylenediamine,C1=CC(=C(C=C1N)[N+](=O)[O-])N,5307-14-2,-5.659,Nc1ccc(N)c([N+](=O)[O-])c1,Nc1ccc(N)c([N+](=O)[O-])c1,,False
+SkinPiX,2-Nitro-p-phenylenediamine,C1=CC(=C(C=C1N)[N+](=O)[O-])N,5307-14-2,-5.829,Nc1ccc(N)c([N+](=O)[O-])c1,Nc1ccc(N)c([N+](=O)[O-])c1,,False
+SkinPiX,"3-Methyl-3H-imidazo[4,5-f]quinolin-2-amine",CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N,76180-96-6,-6.016,Cn1c(N)nc2c3cccnc3ccc21,Cn1c(N)nc2c3cccnc3ccc21,,False
+SkinPiX,"3-Methyl-3H-imidazo[4,5-f]quinolin-2-amine",CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N,76180-96-6,-5.987,Cn1c(N)nc2c3cccnc3ccc21,Cn1c(N)nc2c3cccnc3ccc21,,False
+SkinPiX,4-Amino-3-nitrophenol,C1=CC(=C(C=C1O)[N+](=O)[O-])N,610-81-1,-5.693,Nc1ccc(O)cc1[N+](=O)[O-],Nc1ccc(O)cc1[N+](=O)[O-],,False
+SkinPiX,4-Amino-3-nitrophenol,C1=CC(=C(C=C1O)[N+](=O)[O-])N,610-81-1,-5.823,Nc1ccc(O)cc1[N+](=O)[O-],Nc1ccc(O)cc1[N+](=O)[O-],,False
+SkinPiX,4-Bromophenyl isocyanate,C1=CC(=CC=C1N=C=O)Br,2493-02-9,-5.601,O=C=Nc1ccc(Br)cc1,O=C=Nc1ccc(Br)cc1,,False
+SkinPiX,4-Bromophenyl isocyanate,C1=CC(=CC=C1N=C=O)Br,2493-02-9,-5.308,O=C=Nc1ccc(Br)cc1,O=C=Nc1ccc(Br)cc1,,False
+SkinPiX,4-Chlorobutyric acid,C(CC(=O)O)CCl,627-00-9,-5.527,O=C(O)CCCCl,O=C(O)CCCCl,,False
+SkinPiX,4-Chlorobutyric acid,C(CC(=O)O)CCl,627-00-9,-5.509,O=C(O)CCCCl,O=C(O)CCCCl,,False
+SkinPiX,4-Methylvaleric acid,CC(C)CCC(=O)O,646-07-1,-6.136,CC(C)CCC(=O)O,CC(C)CCC(=O)O,,False
+SkinPiX,4-Methylvaleric acid,CC(C)CCC(=O)O,646-07-1,-6.358,CC(C)CCC(=O)O,CC(C)CCC(=O)O,,False
+SkinPiX,4-Nitro-o-phenylenediamine,C1=CC(=C(C=C1[N+](=O)[O-])N)N,99-56-9,-5.718,Nc1ccc([N+](=O)[O-])cc1N,Nc1ccc([N+](=O)[O-])cc1N,,False
+SkinPiX,4-Nitro-o-phenylenediamine,C1=CC(=C(C=C1[N+](=O)[O-])N)N,99-56-9,-5.684,Nc1ccc([N+](=O)[O-])cc1N,Nc1ccc([N+](=O)[O-])cc1N,,False
+SkinPiX,6-Methylcoumarin,CC1=CC2=C(C=C1)OC(=O)C=C2,92-48-8,-4.85,Cc1ccc2oc(=O)ccc2c1,Cc1ccc2oc(=O)ccc2c1,,False
+SkinPiX,6-Methylcoumarin,CC1=CC2=C(C=C1)OC(=O)C=C2,92-48-8,-4.888,Cc1ccc2oc(=O)ccc2c1,Cc1ccc2oc(=O)ccc2c1,,False
+SkinPiX,7-Ethoxycoumarin,CCOC1=CC2=C(C=C1)C=CC(=O)O2,31005-02-4,-4.065,CCOc1ccc2ccc(=O)oc2c1,CCOc1ccc2ccc(=O)oc2c1,,False
+SkinPiX,7-Ethoxycoumarin,CCOC1=CC2=C(C=C1)C=CC(=O)O2,31005-02-4,-4.475,CCOc1ccc2ccc(=O)oc2c1,CCOc1ccc2ccc(=O)oc2c1,,False
+SkinPiX,AAPV,N[C@@]([H])(C)C(=O)N[C@@]([H])(C)C(=O)N1[C@@]([H])(CCC1)C(=O)N[C@@]([H])(C(C)C)C(=O)O,,-7.38,CC(C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](C)NC(=O)[C@H](C)N)C(=O)O,CC(C)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](C)NC(=O)[C@H](C)N)C(=O)O,,False
+SkinPiX,Acetophenone,CC(=O)C1=CC=CC=C1,98-86-2,-5.133,CC(=O)c1ccccc1,CC(=O)c1ccccc1,,False
+SkinPiX,Acetophenone,CC(=O)C1=CC=CC=C1,98-86-2,-5.116,CC(=O)c1ccccc1,CC(=O)c1ccccc1,,False
+SkinPiX,Aflatoxin B1,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4[C@@H]5C=CO[C@@H]5OC4=C1,1162-65-8,-7.231,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2,,False
+SkinPiX,Aflatoxin B1,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4[C@@H]5C=CO[C@@H]5OC4=C1,1162-65-8,-7.232,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2,COc1cc2c(c3oc(=O)c4c(c13)CCC4=O)[C@@H]1C=CO[C@@H]1O2,,False
+SkinPiX,Aminopyrine,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C,58-15-1,-6.481,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Basic Red 76 (chloride salt),C[N+](C)(C)C1=CC2=C(C=C1)C=CC(=C2N=NC3=CC=CC=C3OC)O.[Cl-],68391-30-0,-6.61,COc1ccccc1N=Nc1c(O)ccc2ccc([N+](C)(C)C)cc12.[Cl-],COc1ccccc1N=Nc1c(O)ccc2ccc([N+](C)(C)C)cc12.[Cl-],,False
+SkinPiX,Basic Red 76 (chloride salt),C[N+](C)(C)C1=CC2=C(C=C1)C=CC(=C2N=NC3=CC=CC=C3OC)O.[Cl-],68391-30-0,-6.328,COc1ccccc1N=Nc1c(O)ccc2ccc([N+](C)(C)C)cc12.[Cl-],COc1ccccc1N=Nc1c(O)ccc2ccc([N+](C)(C)C)cc12.[Cl-],,False
+SkinPiX,Benzene,C1=CC=CC=C1,71-43-2,-3.745,c1ccccc1,c1ccccc1,,False
+SkinPiX,Benzoic acid,C1=CC=C(C=C1)C(=O)O,65-85-0,-6.038,O=C(O)c1ccccc1,O=C(O)c1ccccc1,,False
+SkinPiX,Benzoic acid,C1=CC=C(C=C1)C(=O)O,65-85-0,-5.933,O=C(O)c1ccccc1,O=C(O)c1ccccc1,,False
+SkinPiX,Benzoic acid,C1=CC=C(C=C1)C(=O)O,65-85-0,-5.023,O=C(O)c1ccccc1,O=C(O)c1ccccc1,,False
+SkinPiX,Benzoic acid,C1=CC=C(C=C1)C(=O)O,65-85-0,-4.981,O=C(O)c1ccccc1,O=C(O)c1ccccc1,,False
+SkinPiX,Benzophenone,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,119-61-9,-3.3,O=C(c1ccccc1)c1ccccc1,O=C(c1ccccc1)c1ccccc1,,False
+SkinPiX,Benzophenone,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,119-61-9,-3.569,O=C(c1ccccc1)c1ccccc1,O=C(c1ccccc1)c1ccccc1,,False
+SkinPiX,Benzyl bromide,C1=CC=C(C=C1)CBr,100-39-0,-5.222,BrCc1ccccc1,BrCc1ccccc1,,False
+SkinPiX,Benzyl bromide,C1=CC=C(C=C1)CBr,100-39-0,-5.448,BrCc1ccccc1,BrCc1ccccc1,,False
+SkinPiX,Benzylideneacetone,CC(=O)/C=C/C1=CC=CC=C1,122-57-6,-4.894,CC(=O)/C=C/c1ccccc1,CC(=O)/C=C/c1ccccc1,,False
+SkinPiX,Benzylideneacetone,CC(=O)/C=C/C1=CC=CC=C1,122-57-6,-4.675,CC(=O)/C=C/c1ccccc1,CC(=O)/C=C/c1ccccc1,,False
+SkinPiX,Bisphenol A,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,80-05-7,-7.588,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,,False
+SkinPiX,Bisphenol A,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,80-05-7,-7.889,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,,False
+SkinPiX,Bisphenol S,C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O,80-09-1,-9.745,O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1,O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1,,False
+SkinPiX,Bisphenol S,C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O,80-09-1,-9.141,O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1,O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1,,False
+SkinPiX,Bisphenol S,C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O,80-09-1,-8.131,O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1,O=S(=O)(c1ccc(O)cc1)c1ccc(O)cc1,,False
+SkinPiX,C6(D)-Laa-AAPV,[H][C@@](C)(NC(=O)[C@]([H])(C)N(C)C(=O)[C@H](N)CCCCCC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(C(C)C)C(O)=O,,-6.675,CCCCCC[C@@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,CCCCCC[C@@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,,False
+SkinPiX,C6(L)-Laa-AAPV,[H][C@@](C)(NC(=O)[C@]([H])(C)N(C)C(=O)[C@@H](N)CCCCCC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(C(C)C)C(O)=O,,-7.352,CCCCCC[C@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,CCCCCC[C@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,,False
+SkinPiX,C8(D)-Laa-AAPV,[H][C@@](C)(NC(=O)[C@]([H])(C)N(C)C(=O)[C@H](N)CCCCCCCC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(C(C)C)C(O)=O,,-5.278,CCCCCCCC[C@@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,CCCCCCCC[C@@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,,False
+SkinPiX,"C8(D,L)-Laa-AAPV",[H][C@@](C)(NC(=O)[C@]([H])(C)N(C)C(=O)C(N)CCCCCCCC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(C(C)C)C(O)=O,,-6.038,CCCCCCCCC(N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,CCCCCCCCC(N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,,False
+SkinPiX,C8(L)-Laa-AAPV,[H][C@@](C)(NC(=O)[C@]([H])(C)N(C)C(=O)[C@@H](N)CCCCCCCC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(C(C)C)C(O)=O,,-6.903,CCCCCCCC[C@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,CCCCCCCC[C@H](N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,,False
+SkinPiX,"C10(D,L)-Laa-AAPV",[H][C@@](C)(NC(=O)[C@]([H])(C)N(C)C(=O)C(N)CCCCCCCCCC)C(=O)N1CCC[C@@]1([H])C(=O)N[C@@]([H])(C(C)C)C(O)=O,,-6.094,CCCCCCCCCCC(N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,CCCCCCCCCCC(N)C(=O)N(C)[C@@H](C)C(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)O)C(C)C,,False
+SkinPiX,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,-7.232,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+SkinPiX,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,-7.372,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+SkinPiX,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,-7.246,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+SkinPiX,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,-6.745,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+SkinPiX,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,-4.298,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+SkinPiX,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,-6.163,Cn1c(=O)c2c(ncn2C)n(C)c1=O,Cn1c(=O)c2c(ncn2C)n(C)c1=O,,False
+SkinPiX,Calcein,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C(=C4)CN(CC(=O)O)CC(=O)O)O)OC5=C3C=C(C(=C5)O)CN(CC(=O)O)CC(=O)O,1461-15-0,-7.616,O=C(O)CN(CC(=O)O)Cc1cc2c(cc1O)Oc1cc(O)c(CN(CC(=O)O)CC(=O)O)cc1C21OC(=O)c2ccccc21,O=C(O)CN(CC(=O)O)Cc1cc2c(cc1O)Oc1cc(O)c(CN(CC(=O)O)CC(=O)O)cc1C21OC(=O)c2ccccc21,,False
+SkinPiX,Calcein,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C(=C4)CN(CC(=O)O)CC(=O)O)O)OC5=C3C=C(C(=C5)O)CN(CC(=O)O)CC(=O)O,1461-15-0,-8.652,O=C(O)CN(CC(=O)O)Cc1cc2c(cc1O)Oc1cc(O)c(CN(CC(=O)O)CC(=O)O)cc1C21OC(=O)c2ccccc21,O=C(O)CN(CC(=O)O)Cc1cc2c(cc1O)Oc1cc(O)c(CN(CC(=O)O)CC(=O)O)cc1C21OC(=O)c2ccccc21,,False
+SkinPiX,Calcein,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C(=C4)CN(CC(=O)O)CC(=O)O)O)OC5=C3C=C(C(=C5)O)CN(CC(=O)O)CC(=O)O,1461-15-0,-8.046,O=C(O)CN(CC(=O)O)Cc1cc2c(cc1O)Oc1cc(O)c(CN(CC(=O)O)CC(=O)O)cc1C21OC(=O)c2ccccc21,O=C(O)CN(CC(=O)O)Cc1cc2c(cc1O)Oc1cc(O)c(CN(CC(=O)O)CC(=O)O)cc1C21OC(=O)c2ccccc21,,False
+SkinPiX,Carbendazim,COC(=O)NC1=NC2=CC=CC=C2N1,10605-21-7,-6.025,COC(=O)Nc1nc2ccccc2[nH]1,COC(=O)Nc1nc2ccccc2[nH]1,,False
+SkinPiX,Chlorpromazine hydrochloride,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl.Cl,69-09-0,-7.899,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21.Cl,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21.Cl,,False
+SkinPiX,Cinnamyl alcohol,C1=CC=C(C=C1)/C=C/CO,104-54-1,-5.023,OC/C=C/c1ccccc1,OC/C=C/c1ccccc1,,False
+SkinPiX,Cinnamyl alcohol,C1=CC=C(C=C1)/C=C/CO,104-54-1,-5.035,OC/C=C/c1ccccc1,OC/C=C/c1ccccc1,,False
+SkinPiX,Citrinin,C[C@@H]1[C@H](OC=C2C1=C(C(=C(C2=O)C(=O)O)O)C)C,518-75-2,-6.887,CC1=C2C(=CO[C@H](C)[C@H]2C)C(=O)C(C(=O)O)=C1O,CC1=C2C(=CO[C@H](C)[C@H]2C)C(=O)C(C(=O)O)=C1O,,False
+SkinPiX,Citrinin,C[C@@H]1[C@H](OC=C2C1=C(C(=C(C2=O)C(=O)O)O)C)C,518-75-2,-6.887,CC1=C2C(=CO[C@H](C)[C@H]2C)C(=O)C(C(=O)O)=C1O,CC1=C2C(=CO[C@H](C)[C@H]2C)C(=O)C(C(=O)O)=C1O,,False
+SkinPiX,Clonidine hydrochloride,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl.Cl,4205-91-8,-8.117,Cl.Clc1cccc(Cl)c1NC1=NCCN1,Cl.Clc1cccc(Cl)c1NC1=NCCN1,analgesic adjuvant,False
+SkinPiX,Codeine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O,76-57-3,-6.762170966,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341,opioid (ATC N02A),True
+SkinPiX,Cyclophosphamide monohydrate,C1CNP(=O)(OC1)N(CCCl)CCCl.O,6055-19-2,-6.375,O.O=P1(N(CCCl)CCCl)NCCCO1,O.O=P1(N(CCCl)CCCl)NCCCO1,,False
+SkinPiX,Cyclophosphamide monohydrate,C1CNP(=O)(OC1)N(CCCl)CCCl.O,6055-19-2,-6.094,O.O=P1(N(CCCl)CCCl)NCCCO1,O.O=P1(N(CCCl)CCCl)NCCCO1,,False
+SkinPiX,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,62-73-7,-4.436,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,,False
+SkinPiX,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,62-73-7,-5.816,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,,False
+SkinPiX,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,62-73-7,-5.944,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,,False
+SkinPiX,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,62-73-7,-3.431,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,,False
+SkinPiX,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,62-73-7,-4.716,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,,False
+SkinPiX,Dichlorvos,COP(=O)(OC)OC=C(Cl)Cl,62-73-7,-4.515,COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,,False
+SkinPiX,Diethyl maleate,CCOC(=O)/C=C\C(=O)OCC,141-05-9,-5.068,CCOC(=O)/C=C\C(=O)OCC,CCOC(=O)/C=C\C(=O)OCC,,False
+SkinPiX,Diethyl maleate,CCOC(=O)/C=C\C(=O)OCC,141-05-9,-5.142,CCOC(=O)/C=C\C(=O)OCC,CCOC(=O)/C=C\C(=O)OCC,,False
+SkinPiX,Diethyl phthalate,CCOC(=O)C1=CC=CC=C1C(=O)OCC,84-66-2,-5.242,CCOC(=O)c1ccccc1C(=O)OCC,CCOC(=O)c1ccccc1C(=O)OCC,,False
+SkinPiX,Diethylene glycol monobutyl ether,CCCCOCCOCCO,112-34-5,-5.727,CCCCOCCOCCO,CCCCOCCOCCO,,False
+SkinPiX,Diethylene glycol monobutyl ether,CCCCOCCOCCO,112-34-5,-5.723,CCCCOCCOCCO,CCCCOCCOCCO,,False
+SkinPiX,Dihydrocodeine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](CC4)O,125-28-0,-6.190685426,COc1ccc2c3c1O[C@H]1[C@@H](O)CC[C@H]4[C@@H](C2)N(C)CC[C@@]341,COc1ccc2c3c1O[C@H]1[C@@H](O)CC[C@H]4[C@@H](C2)N(C)CC[C@@]341,opioid (ATC N02A),True
+SkinPiX,Dihydromorphine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](CC4)O,509-60-4,-7.722811771,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)CC[C@H]3[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)CC[C@H]3[C@H]1C5,opioid (ATC N02A),True
+SkinPiX,Dimethyl phthalate,COC(=O)C1=CC=CC=C1C(=O)OC,131-11-3,-5.153,COC(=O)c1ccccc1C(=O)OC,COC(=O)c1ccccc1C(=O)OC,,False
+SkinPiX,Dimethyl phthalate,COC(=O)C1=CC=CC=C1C(=O)OC,131-11-3,-5.204,COC(=O)c1ccccc1C(=O)OC,COC(=O)c1ccccc1C(=O)OC,,False
+SkinPiX,Ethanolamine,C(CO)N,141-43-5,-7.14,NCCO,NCCO,,False
+SkinPiX,Ethyl p-aminobenzoate,CCOC(=O)C1=CC=C(C=C1)N,94-09-7,-4.697,CCOC(=O)c1ccc(N)cc1,CCOC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+SkinPiX,Ethylparaben,CCOC(=O)C1=CC=C(C=C1)O,120-47-8,-5.413,CCOC(=O)c1ccc(O)cc1,CCOC(=O)c1ccc(O)cc1,,False
+SkinPiX,Eugenol,COC1=C(C=CC(=C1)CC=C)O,97-53-0,-5.182,C=CCc1ccc(O)c(OC)c1,C=CCc1ccc(O)c(OC)c1,,False
+SkinPiX,Eugenol,COC1=C(C=CC(=C1)CC=C)O,97-53-0,-5.112,C=CCc1ccc(O)c(OC)c1,C=CCc1ccc(O)c(OC)c1,,False
+SkinPiX,Fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,437-38-7,-8.8,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+SkinPiX,Fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,437-38-7,-9.065,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+SkinPiX,Fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,437-38-7,-9.477,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,opioid (ATC N02A),True
+SkinPiX,Fumonisin B1,[C@@H]([C@@H](OC(C[C@@H](CC(O)=O)C(O)=O)=O)C[C@H](C[C@@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)C)(OC(C[C@@H](CC(O)=O)C(O)=O)=O)[C@@H](CCCC)C,116355-83-0,-9.046,CCCC[C@@H](C)[C@@H](OC(=O)C[C@@H](CC(=O)O)C(=O)O)[C@H](C[C@@H](C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)[C@H](C)N)OC(=O)C[C@@H](CC(=O)O)C(=O)O,CCCC[C@@H](C)[C@@H](OC(=O)C[C@@H](CC(=O)O)C(=O)O)[C@H](C[C@@H](C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)[C@H](C)N)OC(=O)C[C@@H](CC(=O)O)C(=O)O,,False
+SkinPiX,Fumonisin B1,[C@@H]([C@@H](OC(C[C@@H](CC(O)=O)C(O)=O)=O)C[C@H](C[C@@H](CCCC[C@H](C[C@@H]([C@H](C)N)O)O)O)C)(OC(C[C@@H](CC(O)=O)C(O)=O)=O)[C@@H](CCCC)C,116355-83-0,-9.051,CCCC[C@@H](C)[C@@H](OC(=O)C[C@@H](CC(=O)O)C(=O)O)[C@H](C[C@@H](C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)[C@H](C)N)OC(=O)C[C@@H](CC(=O)O)C(=O)O,CCCC[C@@H](C)[C@@H](OC(=O)C[C@@H](CC(=O)O)C(=O)O)[C@H](C[C@@H](C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)[C@H](C)N)OC(=O)C[C@@H](CC(=O)O)C(=O)O,,False
+SkinPiX,Geraniol,CC(=CCC/C(=C/CO)/C)C,106-24-1,-4.963,CC(C)=CCC/C(C)=C/CO,CC(C)=CCC/C(C)=C/CO,,False
+SkinPiX,Geraniol,CC(=CCC/C(=C/CO)/C)C,106-24-1,-4.57,CC(C)=CCC/C(C)=C/CO,CC(C)=CCC/C(C)=C/CO,,False
+SkinPiX,HC Red No. 3,C1=CC(=C(C=C1N)[N+](=O)[O-])NCCO,2871-01-4,-6.075,Nc1ccc(NCCO)c([N+](=O)[O-])c1,Nc1ccc(NCCO)c([N+](=O)[O-])c1,,False
+SkinPiX,HC Red No. 3,C1=CC(=C(C=C1N)[N+](=O)[O-])NCCO,2871-01-4,-5.879,Nc1ccc(NCCO)c([N+](=O)[O-])c1,Nc1ccc(NCCO)c([N+](=O)[O-])c1,,False
+SkinPiX,Hydrocodone,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3C(=O)CC4,125-29-1,-6.456,COc1ccc2c3c1O[C@H]1C(=O)CC[C@H]4[C@@H](C2)N(C)CC[C@]314,COc1ccc2c3c1O[C@H]1C(=O)CC[C@H]4[C@@H](C2)N(C)CC[C@]314,opioid (ATC N02A),True
+SkinPiX,Hydrocortisone,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,50-23-7,-8.857,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+SkinPiX,Hydrocortisone,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,50-23-7,-6.332,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+SkinPiX,Hydrocortisone,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,50-23-7,-6.238,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+SkinPiX,Hydrocortisone,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O,50-23-7,-8.214,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,False
+SkinPiX,Hydromorphone,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)CC4,466-99-9,-8.004117488,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@H]3[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@H]3[C@H]1C5,opioid (ATC N02A),True
+SkinPiX,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,15687-27-1,-6.244,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,15687-27-1,-6.217,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,15687-27-1,-5.716,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,15687-27-1,-5.808,CC(C)Cc1ccc(C(C)C(=O)O)cc1,CC(C)Cc1ccc(C(C)C(=O)O)cc1,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Isoeugenol,C/C=C/C1=CC(=C(C=C1)O)OC,97-54-1,-5.265,C/C=C/c1ccc(O)c(OC)c1,C/C=C/c1ccc(O)c(OC)c1,,False
+SkinPiX,Isoeugenol,C/C=C/C1=CC(=C(C=C1)O)OC,97-54-1,-4.969,C/C=C/c1ccc(O)c(OC)c1,C/C=C/c1ccc(O)c(OC)c1,,False
+SkinPiX,Isosorbide 5-mononitrate,C1[C@@H]([C@@H]2[C@H](O1)[C@@H](CO2)O[N+](=O)[O-])O,16051-77-7,-6.959,O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O,O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O,,False
+SkinPiX,Isosorbide dinitrate,C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-],87-33-2,-5.503,O=[N+]([O-])O[C@H]1CO[C@H]2[C@@H]1OC[C@H]2O[N+](=O)[O-],O=[N+]([O-])O[C@H]1CO[C@H]2[C@@H]1OC[C@H]2O[N+](=O)[O-],,False
+SkinPiX,Ketoprofen,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,22071-15-4,-7.176,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Lidocaine hydrochloride monohydrate,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,6108-05-0,-7.301,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+SkinPiX,Lidocaine hydrochloride monohydrate,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,6108-05-0,-6.854,CCN(CC)CC(=O)Nc1c(C)cccc1C,CCN(CC)CC(=O)Nc1c(C)cccc1C,local anaesthetic (ATC N01B),True
+SkinPiX,Methyl methanesulfonate,COS(=O)(=O)C,66-27-3,-5.587,COS(C)(=O)=O,COS(C)(=O)=O,,False
+SkinPiX,Methyl methanesulfonate,COS(=O)(=O)C,66-27-3,-5.624,COS(C)(=O)=O,COS(C)(=O)=O,,False
+SkinPiX,Methyl p-aminobenzoate,COC(=O)C1=CC=C(C=C1)N,619-45-4,-4.735,COC(=O)c1ccc(N)cc1,COC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+SkinPiX,Methylparaben,COC(=O)C1=CC=C(C=C1)O,99-76-3,-5.604,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+SkinPiX,Methylparaben,COC(=O)C1=CC=C(C=C1)O,99-76-3,-4.981,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+SkinPiX,Methylparaben,COC(=O)C1=CC=C(C=C1)O,99-76-3,-5.059,COC(=O)c1ccc(O)cc1,COC(=O)c1ccc(O)cc1,,False
+SkinPiX,Miconazole,C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl,22916-47-8,-3.858,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,,False
+SkinPiX,Morphine,CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O,57-27-2,-7.419930646,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,opioid (ATC N02A),True
+SkinPiX,Naphthalene,C1=CC=C2C=CC=CC2=C1,91-20-3,-5.608,c1ccc2ccccc2c1,c1ccc2ccccc2c1,,False
+SkinPiX,Naphthalene,C1=CC=C2C=CC=CC2=C1,91-20-3,-5.339,c1ccc2ccccc2c1,c1ccc2ccccc2c1,,False
+SkinPiX,Niacinamide,C1=CC(=CN=C1)C(=O)N,98-92-0,-8.908,NC(=O)c1cccnc1,NC(=O)c1cccnc1,,False
+SkinPiX,Niacinamide,C1=CC(=CN=C1)C(=O)N,98-92-0,-9.202,NC(=O)c1cccnc1,NC(=O)c1cccnc1,,False
+SkinPiX,Niacinamide,C1=CC(=CN=C1)C(=O)N,98-92-0,-6.602,NC(=O)c1cccnc1,NC(=O)c1cccnc1,,False
+SkinPiX,Niacinamide,C1=CC(=CN=C1)C(=O)N,98-92-0,-6.273,NC(=O)c1cccnc1,NC(=O)c1cccnc1,,False
+SkinPiX,Nicotine,CN1CCC[C@H]1C2=CN=CC=C2,54-11-5,-7.318,CN1CCC[C@H]1c1cccnc1,CN1CCC[C@H]1c1cccnc1,,False
+SkinPiX,Nicotine,CN1CCC[C@H]1C2=CN=CC=C2,54-11-5,-5.822,CN1CCC[C@H]1c1cccnc1,CN1CCC[C@H]1c1cccnc1,,False
+SkinPiX,Nicotine,CN1CCC[C@H]1C2=CN=CC=C2,54-11-5,-7.339,CN1CCC[C@H]1c1cccnc1,CN1CCC[C@H]1c1cccnc1,,False
+SkinPiX,Nitrobenzene,C1=CC=C(C=C1)[N+](=O)[O-],98-95-3,-4.851,O=[N+]([O-])c1ccccc1,O=[N+]([O-])c1ccccc1,,False
+SkinPiX,Nitrobenzene,C1=CC=C(C=C1)[N+](=O)[O-],98-95-3,-4.8,O=[N+]([O-])c1ccccc1,O=[N+]([O-])c1ccccc1,,False
+SkinPiX,Ochratoxin A,C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl,303-47-9,-6.642,C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@@H](Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1,C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@@H](Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1,,False
+SkinPiX,Ochratoxin A,C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl,303-47-9,-6.642,C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@@H](Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1,C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@@H](Cc3ccccc3)C(=O)O)c(O)c2C(=O)O1,,False
+SkinPiX,Oxycodone,CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O,76-42-6,-6.59002208,COc1ccc2c3c1O[C@H]1C(=O)CC[C@@]4(O)[C@@H](C2)N(C)CC[C@]314,COc1ccc2c3c1O[C@H]1C(=O)CC[C@@]4(O)[C@@H](C2)N(C)CC[C@]314,opioid (ATC N02A),True
+SkinPiX,Oxymorphone,CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O,76-41-5,-7.733111659,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@@]3(O)[C@H]1C5,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2C(=O)CC[C@@]3(O)[C@H]1C5,opioid (ATC N02A),True
+SkinPiX,Papaverine hydrochloride,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC.Cl,61-25-6,-6.604,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC.Cl,COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC.Cl,opioid (ATC N02A),False
+SkinPiX,Pellitorine,CCCCC/C=C/C=C/C(=O)NCC(C)C,18836-52-7,-7.516,CCCCC/C=C/C=C/C(=O)NCC(C)C,CCCCC/C=C/C=C/C(=O)NCC(C)C,,False
+SkinPiX,Pellitorine,CCCCC/C=C/C=C/C(=O)NCC(C)C,18836-52-7,-7.516,CCCCC/C=C/C=C/C(=O)NCC(C)C,CCCCC/C=C/C=C/C(=O)NCC(C)C,,False
+SkinPiX,Perfluorooctanoic acid,C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,335-67-1,-4.816,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,,False
+SkinPiX,Perfluorooctanoic acid,C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,335-67-1,-7.913,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,,False
+SkinPiX,Perfluorooctanoic acid,C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,335-67-1,-7.793,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,,False
+SkinPiX,Pranoprofen,CC(C1=CC2=C(C=C1)OC3=C(C2)C=CC=N3)C(=O)O,52549-17-4,-6.973,CC(C(=O)O)c1ccc2c(c1)Cc1cccnc1O2,CC(C(=O)O)c1ccc2c(c1)Cc1cccnc1O2,"NSAID / non-opioid (ATC M01A, N02B)",True
+SkinPiX,Progesterone,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,57-83-0,-7.741,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,False
+SkinPiX,Propylene glycol monomethyl ether,CC(COC)O,107-98-2,-7.571,COCC(C)O,COCC(C)O,,False
+SkinPiX,Propylene glycol n-butyl ether,CCCCOCC(C)O,5131-66-8,-8.16,CCCCOCC(C)O,CCCCOCC(C)O,,False
+SkinPiX,Propylparaben,CCCOC(=O)C1=CC=C(C=C1)O,94-13-3,-5.44,CCCOC(=O)c1ccc(O)cc1,CCCOC(=O)c1ccc(O)cc1,,False
+SkinPiX,Propylparaben,CCCOC(=O)C1=CC=C(C=C1)O,94-13-3,-4.747,CCCOC(=O)c1ccc(O)cc1,CCCOC(=O)c1ccc(O)cc1,,False
+SkinPiX,Propylparaben,CCCOC(=O)C1=CC=C(C=C1)O,94-13-3,-4.759,CCCOC(=O)c1ccc(O)cc1,CCCOC(=O)c1ccc(O)cc1,,False
+SkinPiX,Resorcinol,C1=CC(=CC(=C1)O)O,108-46-3,-5.836,Oc1cccc(O)c1,Oc1cccc(O)c1,,False
+SkinPiX,Resorcinol,C1=CC(=CC(=C1)O)O,108-46-3,-5.913,Oc1cccc(O)c1,Oc1cccc(O)c1,,False
+SkinPiX,Simazine,CCNC1=NC(=NC(=N1)Cl)NCC,122-34-9,-5.875,CCNc1nc(Cl)nc(NCC)n1,CCNc1nc(Cl)nc(NCC)n1,,False
+SkinPiX,T-2 toxin,C[C@@]12[C@@]3([C@@]([C@H](O)[C@H]1OC(C)=O)(O[C@]4([C@]2(COC(C)=O)C[C@H](OC(CC(C)C)=O)C(C)=C4)[H])[H])CO3,21259-20-1,-7.773,CC(=O)OC[C@]12C[C@H](OC(=O)CC(C)C)C(C)=C[C@H]1O[C@@H]1[C@H](O)[C@@H](OC(C)=O)[C@@]2(C)[C@]12CO2,CC(=O)OC[C@]12C[C@H](OC(=O)CC(C)C)C(C)=C[C@H]1O[C@@H]1[C@H](O)[C@@H](OC(C)=O)[C@@]2(C)[C@]12CO2,,False
+SkinPiX,T-2 toxin,C[C@@]12[C@@]3([C@@]([C@H](O)[C@H]1OC(C)=O)(O[C@]4([C@]2(COC(C)=O)C[C@H](OC(CC(C)C)=O)C(C)=C4)[H])[H])CO3,21259-20-1,-7.771,CC(=O)OC[C@]12C[C@H](OC(=O)CC(C)C)C(C)=C[C@H]1O[C@@H]1[C@H](O)[C@@H](OC(C)=O)[C@@]2(C)[C@]12CO2,CC(=O)OC[C@]12C[C@H](OC(=O)CC(C)C)C(C)=C[C@H]1O[C@@H]1[C@H](O)[C@@H](OC(C)=O)[C@@]2(C)[C@]12CO2,,False
+SkinPiX,Testosterone,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,58-22-0,-6.963,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+SkinPiX,Testosterone,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,58-22-0,-4.98,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+SkinPiX,Testosterone,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,58-22-0,-4.972,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,,False
+SkinPiX,Tetrabromobisphenol A,CC(C)(C1=CC(=C(C(=C1)Br)O)Br)C2=CC(=C(C(=C2)Br)O)Br,79-94-7,-6.145,CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1,CC(C)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(O)c(Br)c1,,False
+SkinPiX,Tetramethyl thiuram disulfide,CN(C)C(=S)SSC(=S)N(C)C,137-26-8,-5.366,CN(C)C(=S)SSC(=S)N(C)C,CN(C)C(=S)SSC(=S)N(C)C,,False
+SkinPiX,Tetramethyl thiuram disulfide,CN(C)C(=S)SSC(=S)N(C)C,137-26-8,-5.447,CN(C)C(=S)SSC(=S)N(C)C,CN(C)C(=S)SSC(=S)N(C)C,,False
+SkinPiX,Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,58-55-9,-8.234,Cn1c(=O)c2[nH]cnc2n(C)c1=O,Cn1c(=O)c2[nH]cnc2n(C)c1=O,,False
+SkinPiX,Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,58-55-9,-8.065,Cn1c(=O)c2[nH]cnc2n(C)c1=O,Cn1c(=O)c2[nH]cnc2n(C)c1=O,,False
+SkinPiX,Theophylline,CN1C2=C(C(=O)N(C1=O)C)NC=N2,58-55-9,-6.894,Cn1c(=O)c2[nH]cnc2n(C)c1=O,Cn1c(=O)c2[nH]cnc2n(C)c1=O,,False
+SkinPiX,Thioglycolic acid,C(C(=O)O)S,68-11-1,-5.188,O=C(O)CS,O=C(O)CS,,False
+SkinPiX,Thioglycolic acid,C(C(=O)O)S,68-11-1,-5.245,O=C(O)CS,O=C(O)CS,,False
+SkinPiX,Thymoquinone,CC1=CC(=O)C(=CC1=O)C(C)C,490-91-5,-6.459,CC1=CC(=O)C(C(C)C)=CC1=O,CC1=CC(=O)C(C(C)C)=CC1=O,,False
+SkinPiX,Thymoquinone,CC1=CC(=O)C(=CC1=O)C(C)C,490-91-5,-6.602,CC1=CC(=O)C(C(C)C)=CC1=O,CC1=CC(=O)C(C(C)C)=CC1=O,,False
+SkinPiX,Thymoquinone,CC1=CC(=O)C(=CC1=O)C(C)C,490-91-5,-5.813,CC1=CC(=O)C(C(C)C)=CC1=O,CC1=CC(=O)C(C(C)C)=CC1=O,,False
+SkinPiX,Triclosan,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,3380-34-5,-5.039,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,,False
+SkinPiX,Triclosan,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,3380-34-5,-4.114,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl,,False
+SkinPiX,Vanillin,COC1=C(C=CC(=C1)C=O)O,121-33-5,-5.608,COc1cc(C=O)ccc1O,COc1cc(C=O)ccc1O,,False
+SkinPiX,Vanillin,COC1=C(C=CC(=C1)C=O)O,121-33-5,-5.803,COc1cc(C=O)ccc1O,COc1cc(C=O)ccc1O,,False
+SkinPiX,"Water, tritiated",[3H]O[3H],14940-65-9,-6.432,[3H]O[3H],[3H]O[3H],,False
+SkinPiX,Zearalenone,C[C@H]1CCCC(=O)CCC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1,17924-92-4,-7.188,C[C@H]1CCCC(=O)CCC/C=C/c2cc(O)cc(O)c2C(=O)O1,C[C@H]1CCCC(=O)CCC/C=C/c2cc(O)cc(O)c2C(=O)O1,,False
+SkinPiX,Zearalenone,C[C@H]1CCCC(=O)CCC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1,17924-92-4,-7.189,C[C@H]1CCCC(=O)CCC/C=C/c2cc(O)cc(O)c2C(=O)O1,C[C@H]1CCCC(=O)CCC/C=C/c2cc(O)cc(O)c2C(=O)O1,,False
+SkinPiX,n-Butyl p-aminobenzoate,CCCCOC(=O)C1=CC=C(C=C1)N,94-25-7,-4.697,CCCCOC(=O)c1ccc(N)cc1,CCCCOC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+SkinPiX,n-Butylparaben,CCCCOC(=O)C1=CC=C(C=C1)O,94-26-8,-5.451,CCCCOC(=O)c1ccc(O)cc1,CCCCOC(=O)c1ccc(O)cc1,,False
+SkinPiX,n-Propyl p-aminobenzoate,CCCOC(=O)C1=CC=C(C=C1)N,94-12-2,-4.652,CCCOC(=O)c1ccc(N)cc1,CCCOC(=O)c1ccc(N)cc1,local anaesthetic (ATC N01B),True
+SkinPiX,p-Aminophenol,C1=CC(=CC=C1N)O,123-30-8,-5.731,Nc1ccc(O)cc1,Nc1ccc(O)cc1,,False
+SkinPiX,p-Aminophenol,C1=CC(=CC=C1N)O,123-30-8,-4.443,Nc1ccc(O)cc1,Nc1ccc(O)cc1,,False
+SkinPiX,p-Chloroaniline,C1=CC(=CC=C1N)Cl,106-47-8,-4.995,Nc1ccc(Cl)cc1,Nc1ccc(Cl)cc1,,False
+SkinPiX,p-Chloroaniline,C1=CC(=CC=C1N)Cl,106-47-8,-5.004,Nc1ccc(Cl)cc1,Nc1ccc(Cl)cc1,,False
+SkinPiX,p-Phenylenediamine,C1=CC(=CC=C1N)N,106-50-3,-6.373,Nc1ccc(N)cc1,Nc1ccc(N)cc1,,False
+SkinPiX,p-Phenylenediamine,C1=CC(=CC=C1N)N,106-50-3,-6.305,Nc1ccc(N)cc1,Nc1ccc(N)cc1,,False
+SkinPiX,p-Tolunitrile,CC1=CC=C(C=C1)C#N,104-85-8,-5.178,Cc1ccc(C#N)cc1,Cc1ccc(C#N)cc1,,False
+SkinPiX,p-Tolunitrile,CC1=CC=C(C=C1)C#N,104-85-8,-5.067,Cc1ccc(C#N)cc1,Cc1ccc(C#N)cc1,,False
+SkinPiX,trans-Cinnamaldehyde,C1=CC=C(C=C1)/C=C/C=O,14371-10-9,-5.092,O=C/C=C/c1ccccc1,O=C/C=C/c1ccccc1,,False
+SkinPiX,trans-Cinnamaldehyde,C1=CC=C(C=C1)/C=C/C=O,14371-10-9,-4.941,O=C/C=C/c1ccccc1,O=C/C=C/c1ccccc1,,False
+SkinPiX,trans-Cinnamic acid,C1=CC=C(C=C1)/C=C/C(=O)O,140-10-3,-6.032,O=C(O)/C=C/c1ccccc1,O=C(O)/C=C/c1ccccc1,,False
+SkinPiX,trans-Cinnamic acid,C1=CC=C(C=C1)/C=C/C(=O)O,140-10-3,-5.874,O=C(O)/C=C/c1ccccc1,O=C(O)/C=C/c1ccccc1,,False
+SkinPiX,α-Hexabromocyclododecane,C1C[C@H]([C@H](CC[C@H]([C@@H](CC[C@@H]([C@@H]1Br)Br)Br)Br)Br)Br,134237-50-6,-7.222,Br[C@@H]1CC[C@H](Br)[C@H](Br)CC[C@@H](Br)[C@@H](Br)CC[C@H]1Br,Br[C@@H]1CC[C@H](Br)[C@H](Br)CC[C@@H](Br)[C@@H](Br)CC[C@H]1Br,,False
+SkinPiX,β-Hexabromocyclododecane,C1C[C@H]([C@H](CC[C@H]([C@H](CC[C@H]([C@@H]1Br)Br)Br)Br)Br)Br,134237-51-7,-7.389,Br[C@@H]1CC[C@@H](Br)[C@@H](Br)CC[C@@H](Br)[C@@H](Br)CC[C@H]1Br,Br[C@@H]1CC[C@@H](Br)[C@@H](Br)CC[C@@H](Br)[C@@H](Br)CC[C@H]1Br,,False
+SkinPiX,γ-Hexabromocyclododecane,C1C[C@H]([C@H](CC[C@@H]([C@@H](CC[C@H]([C@@H]1Br)Br)Br)Br)Br)Br,134237-52-8,-7.42,Br[C@@H]1CC[C@@H](Br)[C@@H](Br)CC[C@H](Br)[C@H](Br)CC[C@H]1Br,Br[C@@H]1CC[C@@H](Br)[C@@H](Br)CC[C@H](Br)[C@H](Br)CC[C@H]1Br,,False
