@@ -1,0 +1,19 @@
+{
+ "n": 40,
+ "with_any_atc": 33,
+ "with_in_scope_atc": 32,
+ "resolved_via_parent": 10,
+ "comparable": 32,
+ "agreeing": 32,
+ "disagreeing": 0,
+ "disagreements": [],
+ "no_atc": [
+  "Pranoprofen",
+  "Etorphine",
+  "Butyl p-aminobenzoate",
+  "n-Propyl p-aminobenzoate",
+  "Dihydromorphine",
+  "Methyl p-aminobenzoate",
+  "Methyl salicylate"
+ ]
+}

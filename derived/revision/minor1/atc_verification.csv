@@ -1,0 +1,41 @@
+name,published_class,atc_codes_all,atc_codes_in_scope,atc_implied_class,resolved_via_parent,agrees
+Acetylsalicylic Acid,NSAID / non-opioid,A01AD; B01AC; N02AJ; N02BA,N02AJ; N02BA,NSAID / non-opioid; Opioid,synonym: Aspirin,True
+Flurbiprofen,NSAID / non-opioid,M01AE; M02AA; R02AX; S01BC,M01AE,NSAID / non-opioid,,True
+Pranoprofen,NSAID / non-opioid,,,,,
+Ketoprofen,NSAID / non-opioid,M01AE; M02AA,M01AE,NSAID / non-opioid,,True
+Flurbiprofen mannoside,NSAID / non-opioid,M01AE; M02AA; R02AX; S01BC,M01AE,NSAID / non-opioid,Flurbiprofen,True
+Ketoprofen mannoside,NSAID / non-opioid,M01AE; M02AA,M01AE,NSAID / non-opioid,Ketoprofen,True
+Flurbiprofen glucoside,NSAID / non-opioid,M01AE; M02AA; R02AX; S01BC,M01AE,NSAID / non-opioid,Flurbiprofen,True
+Ketoprofen glucoside,NSAID / non-opioid,M01AE; M02AA,M01AE,NSAID / non-opioid,Ketoprofen,True
+Ibuprofen,NSAID / non-opioid,C01EB; G02CC; M01AE; M02AA; N02AJ; R02AX,M01AE; N02AJ,NSAID / non-opioid; Opioid,,True
+Ibuprofen mannoside,NSAID / non-opioid,C01EB; G02CC; M01AE; M02AA; N02AJ; R02AX,M01AE; N02AJ,NSAID / non-opioid; Opioid,Ibuprofen,True
+Ibuprofen glucoside,NSAID / non-opioid,C01EB; G02CC; M01AE; M02AA; N02AJ; R02AX,M01AE; N02AJ,NSAID / non-opioid; Opioid,Ibuprofen,True
+Sufentanil,Opioid,N01AH,,,,
+Fentanyl,Opioid,N01AH; N02AB,N02AB,Opioid,,True
+Etorphine,Opioid,,,,,
+Butyl p-aminobenzoate,Local anaesthetic,,,,,
+n-Propyl p-aminobenzoate,Local anaesthetic,,,,,
+Lidocaine,Local anaesthetic,C01BB; C05AD; D04AB; N01BB; R02AD; S01HA; S02DA,N01BB,Local anaesthetic,,True
+Meperidine,Opioid,N02AB,N02AB,Opioid,,True
+Ethyl p-aminobenzoate,Local anaesthetic,C05AD; D04AB; N01BA; R02AD,N01BA,Local anaesthetic,synonym: Benzocaine,True
+Etodolac,NSAID / non-opioid,M01AB,M01AB,NSAID / non-opioid,,True
+Oxymorphone,Opioid,N02AA,N02AA,Opioid,,True
+Hydromorphone,Opioid,N02AA,N02AA,Opioid,,True
+Morphine,Opioid,N02AA,N02AA,Opioid,,True
+Dihydromorphine,Opioid,,,,,
+Methyl p-aminobenzoate,Local anaesthetic,,,,,
+Methyl salicylate,NSAID / non-opioid,,,,,
+Indomethacin,NSAID / non-opioid,C01EB; M01AB; M02AA; S01BC,M01AB,NSAID / non-opioid,,True
+Codeine,Opioid,N02AJ; R05DA,N02AJ,Opioid,,True
+Oxycodone,Opioid,N02AA; N02AJ,N02AA; N02AJ,Opioid,,True
+Hydrocodone,Opioid,N02AJ; R05DA,N02AJ,Opioid,,True
+Dihydrocodeine,Opioid,N02AA,N02AA,Opioid,,True
+Naproxen,NSAID / non-opioid,G02CC; M01AE; M02AA; N02CC,M01AE,NSAID / non-opioid,,True
+Naproxen mannoside,NSAID / non-opioid,G02CC; M01AE; M02AA; N02CC,M01AE,NSAID / non-opioid,Naproxen,True
+Naproxen glucoside,NSAID / non-opioid,G02CC; M01AE; M02AA; N02CC,M01AE,NSAID / non-opioid,Naproxen,True
+Nimesulide,NSAID / non-opioid,M01AX; M02AA,M01AX,NSAID / non-opioid,,True
+Aminopyrine,NSAID / non-opioid,N02BB,N02BB,NSAID / non-opioid,,True
+Diclofenac,NSAID / non-opioid,D11AX; M01AB; M02AA; S01BC,M01AB,NSAID / non-opioid,,True
+Flufenamic acid,NSAID / non-opioid,M01AG,M01AG,NSAID / non-opioid,,True
+Salicylic acid,NSAID / non-opioid,D01AE; N02BA; S01BC,N02BA,NSAID / non-opioid,,True
+Ketorolac,NSAID / non-opioid,M01AB; S01BC; S01FB,M01AB,NSAID / non-opioid,,True

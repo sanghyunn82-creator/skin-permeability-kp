@@ -1,0 +1,50 @@
+{
+ "random_seed": 20260821,
+ "split": {
+  "method": "stratified 80:20 on compounds, strata = log Kp quartile x analgesic status",
+  "n_training": 261,
+  "n_heldout": 66,
+  "file": "split_assignment.csv"
+ },
+ "compound_level_cv": {
+  "method": "RepeatedKFold, units = compounds of the training set",
+  "n_splits": 10,
+  "n_repeats": 5,
+  "random_state": 20260821,
+  "used_for": "the cross-validated R2 and RMSE reported in Table 2",
+  "note": "reproducible from the seed; no per-fold file is emitted for this scheme"
+ },
+ "grouped_cv": {
+  "method": "GroupKFold, groups = compound (csmiles)",
+  "n_splits": 10,
+  "n_records": 732,
+  "n_compounds": 327,
+  "guarantee": "all records of a compound share a fold; verified by assertion",
+  "used_for": "the record-level protocol analysis (Figure 5a)",
+  "file": "record_fold_assignment.csv"
+ },
+ "repeated_splits": {
+  "n": 200,
+  "seeds": "20260821 + 0..199",
+  "purpose": "held-out R2 distribution (Figure S7)"
+ },
+ "software": {
+  "descriptors_and_modelling": {
+   "when": "2026-08-20 onwards",
+   "python": "3.11.10",
+   "rdkit": "2026.03.5",
+   "scikit-learn": "1.9.0",
+   "xgboost": "3.2.0",
+   "statsmodels": "0.15.0",
+   "numpy": "2.4.6",
+   "scipy": "1.17.1",
+   "pandas": "2.3.3"
+  },
+  "ionization_analysis": {
+   "when": "2026-09-22, added at revision (Major 8)",
+   "note": "run in a separate environment installed for this analysis; the RDKit build differs from the one used for the descriptors above",
+   "rdkit": "2025.9.6",
+   "dimorphite-dl": "2.0.2"
+  }
+ }
+}

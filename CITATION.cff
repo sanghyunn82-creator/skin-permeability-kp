@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or these derived tables, please cite the archived release and the article."
+title: "Human Skin Permeability Prediction by Machine Learning for Transdermal Drug Delivery — analysis code and derived data"
+abstract: >-
+  Analysis pipeline and derived tables for a pooled reanalysis of two open human skin-permeation
+  databases (732 permeability records, 327 compounds). Includes the held-out split and
+  cross-validation fold assignments, the accumulated local effects and bootstrap bands, the
+  200-split held-out distribution, the corrected fold-wise tests, the permutation and matching
+  analyses of skin layer, the mixed-effects variance decomposition, the ionization analysis and
+  the ATC verification table.
+type: software
+license: MIT
+repository-code: "https://github.com/sanghyunn82-creator/skin-permeability-kp"
+version: 1.0.0
+authors:
+  - family-names: Oh
+    given-names: Seunghwan
+    affiliation: "Department of Materials Science and Engineering, College of Engineering, Yonsei University, Seoul, Republic of Korea"
+  - family-names: Ahn
+    given-names: So Hyun
+    affiliation: "Ewha Medical Research Institute and Ewha Medical Artificial Intelligence Center, School of Medicine, Ewha Womans University, Seoul, Republic of Korea"
+keywords:
+  - skin permeability
+  - QSPR
+  - transdermal drug delivery
+  - machine learning
+  - reproducibility

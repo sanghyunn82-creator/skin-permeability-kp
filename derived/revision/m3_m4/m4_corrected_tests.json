@@ -1,0 +1,55 @@
+{
+ "protocol_vs_chemistry": {
+  "mean_diff": 0.09628125284621974,
+  "ci95_lo": -0.0755437350695811,
+  "ci95_hi": 0.2847651388217201,
+  "corrected_t": 0.670339719034791,
+  "corrected_p": 0.5194697798922704,
+  "df": 9,
+  "published_wilcoxon_p": 0.556640625,
+  "naive_wilcoxon_p": 0.556640625,
+  "k_folds": 10
+ },
+ "both_vs_chemistry": {
+  "mean_diff": 0.17842587251802372,
+  "ci95_lo": 0.10090308267354868,
+  "ci95_hi": 0.2494535319896716,
+  "corrected_t": 3.0646907461070056,
+  "corrected_p": 0.013469087067364424,
+  "df": 9,
+  "published_wilcoxon_p": 0.005859375,
+  "naive_wilcoxon_p": 0.005859375,
+  "k_folds": 10
+ },
+ "both_vs_protocol": {
+  "mean_diff": 0.08214461967180395,
+  "ci95_lo": -0.10219275493061075,
+  "ci95_hi": 0.251991295133093,
+  "corrected_t": 0.5805454493405647,
+  "corrected_p": 0.5757925217552847,
+  "df": 9,
+  "published_wilcoxon_p": 0.4921875,
+  "naive_wilcoxon_p": 0.4921875,
+  "k_folds": 10
+ },
+ "layer_epidermis_vs_mixed": {
+  "mean_epi": 0.4434142755538853,
+  "epi_ci95": [
+   0.39100038668973247,
+   0.4933608995292539
+  ],
+  "mean_mixed": 0.2128005555000851,
+  "mixed_ci95": [
+   0.13515121425060653,
+   0.2860948402750237
+  ],
+  "mean_diff": 0.2306137200538002,
+  "corrected_t": 1.9307516812154075,
+  "corrected_p": 0.05931061929974064,
+  "df": 49,
+  "cohens_d": 0.9886923377571929,
+  "published_mannwhitney_p": 3.5505478185193758e-06,
+  "naive_mannwhitney_p": 3.5505478185193758e-06,
+  "k_folds": 50
+ }
+}

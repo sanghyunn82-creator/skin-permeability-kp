@@ -1,0 +1,38 @@
+{
+ "variance_components": {
+  "null (intercept only)": {
+   "between": 0.8617008110415655,
+   "within": 0.9278483743521034,
+   "icc": 0.4815183723782404,
+   "sd_between": 0.928278412461243,
+   "sd_within": 0.9632488641841751
+  },
+  "PG-form (logP, MW)": {
+   "between": 0.4619118047916814,
+   "within": 0.9453430701827641,
+   "icc": 0.32823606654769577,
+   "sd_between": 0.6796409381369558,
+   "sd_within": 0.9722875450106127,
+   "ho_R2_fixed_only": 0.1750423281375253,
+   "ho_RMSE_fixed_only": 1.2133437824300228,
+   "ho_n_records": 155
+  },
+  "MLR (all descriptors)": {
+   "between": 0.44787631925752935,
+   "within": 0.9306094266943079,
+   "icc": 0.32490457052080224,
+   "sd_between": 0.6692356231235225,
+   "sd_within": 0.9646809973739028,
+   "ho_R2_fixed_only": 0.1658215675975636,
+   "ho_RMSE_fixed_only": 1.2201058647231984,
+   "ho_n_records": 155
+  }
+ },
+ "n_records": 732,
+ "n_compounds": 327,
+ "records_per_compound": {
+  "median": 1.0,
+  "max": 19,
+  "singletons": 177
+ }
+}

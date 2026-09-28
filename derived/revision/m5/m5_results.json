@@ -1,0 +1,32 @@
+{
+ "observed": {
+  "epi": 0.42078488624168636,
+  "mixed": 0.2506457200452166,
+  "gap": 0.17013916619646974,
+  "n_epi": 192,
+  "n_mix": 199,
+  "compounds_in_both_strata": 84
+ },
+ "permutation": {
+  "n": 200,
+  "null_mean": 0.013238345263865067,
+  "null_sd": 0.12359465860550066,
+  "p": 0.18407960199004975,
+  "null_lo": -0.20394779480059355,
+  "null_hi": 0.27101829245317766
+ },
+ "matched": {
+  "n_pairs": 192,
+  "epi": 0.42078488624168636,
+  "mixed": 0.2180488799062,
+  "gap": 0.20273600633548636,
+  "mean_distance": 1.8349026400144572,
+  "imbalanced_before": 0,
+  "imbalanced_after": 1
+ },
+ "settings": {
+  "trees": 150,
+  "folds": 10,
+  "note": "reduced settings for the permutation null; observed statistic recomputed identically"
+ }
+}
